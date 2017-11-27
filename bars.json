@@ -1,0 +1,2422 @@
+[
+  {
+    Nom Ninkasi Gerland,
+    Type Bar à Bière,
+    Note Noté 25,
+    Adresse 267, Rue Marcel Mérieux Lyon 69007,
+    Tel 04 72 76 89 00,
+    Colonne1 ,
+    lat 45.7280365,
+    long 4.8305781
+  },
+  {
+    Nom Péniche Loupika (bar),
+    Type Café bar,
+    Note Noté 4.55,
+    Adresse 47, quai Rambaud Lyon 69002,
+    Tel 09 84 36 28 21,
+    Colonne1 ,
+    lat 45.7378679,
+    long 4.8150943
+  },
+  {
+    Nom Domo Lounge Luxury Bar,
+    Type Bar festif,
+    Note Noté 3.55,
+    Adresse 45, quai Rambaud Lyon  69002,
+    Tel 04 37 23 09 23,
+    Colonne1 ,
+    lat 45.7382929,
+    long 4.8148305
+  },
+  {
+    Nom Blogg,
+    Type Bar à concert,
+    Note Noté 1.55,
+    Adresse 14, rue Crépet Lyon 69007,
+    Tel 04 72 70 85 92,
+    Colonne1 ,
+    lat 45.7384585,
+    long 4.832519
+  },
+  {
+    Nom Docks 40,
+    Type Class Hype,
+    Note Noté 15,
+    Adresse 40, quai Rambaud Lyon 69002,
+    Tel 04 78 40 40 40,
+    Colonne1 ,
+    lat 45.7397704,
+    long 4.8143115
+  },
+  {
+    Nom Peaky Blinders,
+    Type Tavern,
+    Note ,
+    Adresse 83 crs Charlemagne Lyon 69002,
+    Tel 06 73 59 26 13,
+    Colonne1 ,
+    lat 45.7426957,
+    long 4.8210708
+  },
+  {
+    Nom Le Rem's Pub,
+    Type Pub,
+    Note Noté 3.55,
+    Adresse 21, quai Perrache Lyon 69002,
+    Tel 04 78 37 75 86,
+    Colonne1 ,
+    lat 45.74417,
+    long 4.826361
+  },
+  {
+    Nom Victoria Hall - Lounge bar,
+    Type Bar à vin,
+    Note Noté 4.55,
+    Adresse 33, rue du Repos Lyon 69007,
+    Tel 04 37 28 07 97,
+    Colonne1 ,
+    lat 45.7461557,
+    long 4.8505384
+  },
+  {
+    Nom Platypus Brewpub,
+    Type Bars,
+    Note ,
+    Adresse 32, cours Charlemagne Lyon 69002,
+    Tel 09 83 50 85 00,
+    Colonne1 ,
+    lat 45.7462897,
+    long 4.8236024
+  },
+  {
+    Nom Bellona (Bar),
+    Type Bars,
+    Note ,
+    Adresse 100, quai Perrache Lyon 69002,
+    Tel 09 88 28 75 25,
+    Colonne1 ,
+    lat 45.7464457,
+    long 4.8284683
+  },
+  {
+    Nom La Kolok,
+    Type Concept Bar,
+    Note Noté 4.55,
+    Adresse 30, av. Berthelot Lyon 69007,
+    Tel 04 72 71 31 77,
+    Colonne1 ,
+    lat 45.7464594,
+    long 4.8375915
+  },
+  {
+    Nom Chez Vianney Apéro,
+    Type Bars,
+    Note ,
+    Adresse 5 Rue Balthazar, 69003 Lyon,
+    Tel 06 26 91 23 10,
+    Colonne1 ,
+    lat 45.7464989,
+    long 4.8777358
+  },
+  {
+    Nom Mama Shelter (Bar),
+    Type Bar à cocktail,
+    Note Noté 3.55,
+    Adresse 13, rue Domer Lyon 69017,
+    Tel 04 78 02 58 00,
+    Colonne1 ,
+    lat 45.7469195,
+    long 4.845107
+  },
+  {
+    Nom Le 27 Madeleine (Terrasse),
+    Type Bars,
+    Note ,
+    Adresse 27, rue de la Madeleine Lyon 69007,
+    Tel 04 72 80 90 54,
+    Colonne1 ,
+    lat 45.7476731,
+    long 4.8480152
+  },
+  {
+    Nom Lady Clémentine,
+    Type Bars,
+    Note ,
+    Adresse 100, rue d'Anvers Lyon 69007,
+    Tel 09 81 25 02 64,
+    Colonne1 ,
+    lat 45.7480472,
+    long 4.8404544
+  },
+  {
+    Nom Kaffee Berlin,
+    Type Bar à Bière,
+    Note Noté 3.55,
+    Adresse 26 Cours Albert Thomas, 69008 Lyon,
+    Tel 06 18 81 37 13,
+    Colonne1 ,
+    lat 45.7482976,
+    long 4.8628401
+  },
+  {
+    Nom Waina,
+    Type Bar à vin,
+    Note Noté 45,
+    Adresse 51, rue Chevreul Lyon 69007,
+    Tel 04 78 72 43 25,
+    Colonne1 ,
+    lat 45.7485385,
+    long 4.8403266
+  },
+  {
+    Nom Le Renaissance,
+    Type Bars,
+    Note ,
+    Adresse 29 Rue Chevreul Lyon 69007,
+    Tel 04 72 73 35 74,
+    Colonne1 ,
+    lat 45.7491987,
+    long 4.8386485
+  },
+  {
+    Nom Le Comptoir,
+    Type Bar lounge,
+    Note ,
+    Adresse 17 place Carnot Lyon 69002,
+    Tel 04 78 37 48 47,
+    Colonne1 ,
+    lat 45.74985,
+    long 4.8283981
+  },
+  {
+    Nom Le Café Pimpon,
+    Type Café bar,
+    Note Noté 55,
+    Adresse 16, rue de la Madeleine Lyon 69007,
+    Tel 04 72 76 45 84,
+    Colonne1 ,
+    lat 45.750039,
+    long 4.8478496
+  },
+  {
+    Nom Vercoquin,
+    Type Bar à vin,
+    Note Noté 4.55,
+    Adresse 33, rue de la Thibaudière Lyon 69007,
+    Tel 04 78 69 43 87,
+    Colonne1 ,
+    lat 45.7503125,
+    long 4.845516
+  },
+  {
+    Nom Le Fan Club,
+    Type Bars,
+    Note ,
+    Adresse 4, rue Duhamel Lyon 69002,
+    Tel ,
+    Colonne1 ,
+    lat 45.7503706,
+    long 4.8290324
+  },
+  {
+    Nom Sixième Continent,
+    Type Bar à concert,
+    Note Noté 05,
+    Adresse 51, rue Saint-Michel Lyon 69007,
+    Tel 04 37 28 98 71,
+    Colonne1 ,
+    lat 45.7507951,
+    long 4.8470218
+  },
+  {
+    Nom Calle Latino,
+    Type Amérique Latine,
+    Note Noté 45,
+    Adresse 3, crs de Verdun Gensoul  Lyon 69002,
+    Tel 04 78 42 24 90,
+    Colonne1 ,
+    lat 45.7508608,
+    long 4.8245388
+  },
+  {
+    Nom Comptoir 113,
+    Type Bars,
+    Note Noté 45,
+    Adresse 113 Grande Rue de la Guillotière, 69007 Lyon,
+    Tel 04 72 80 93 40,
+    Colonne1 ,
+    lat 45.7510115,
+    long 4.8484104
+  },
+  {
+    Nom Le Bistrot des Maquignons (Bars),
+    Type Bar,
+    Note Noté 4.55,
+    Adresse 113  grande rue de la Guillotière Lyon 69007,
+    Tel 04 72 71 63 87,
+    Colonne1 ,
+    lat 45.7510115,
+    long 4.8484104
+  },
+  {
+    Nom Le Comptoir de Doug,
+    Type Bars,
+    Note ,
+    Adresse 13, rue Général Plessier  Lyon 69002,
+    Tel ,
+    Colonne1 ,
+    lat 45.7512437,
+    long 4.8263437
+  },
+  {
+    Nom L'Atenium  la Taverne,
+    Type Bar de copains,
+    Note ,
+    Adresse 80, rue Montesquieu Lyon  69007,
+    Tel ,
+    Colonne1 ,
+    lat 45.751274,
+    long 4.8449204
+  },
+  {
+    Nom café carnot,
+    Type Bars,
+    Note Noté 35,
+    Adresse 7 Place Carnot Lyon  69002,
+    Tel 04 78 38 25 28,
+    Colonne1 ,
+    lat 45.7514694,
+    long 4.8291248
+  },
+  {
+    Nom AFK Bar,
+    Type Bars,
+    Note ,
+    Adresse 52, rue de l'Université Lyon 69007,
+    Tel 04 26 28 14 41,
+    Colonne1 ,
+    lat 45.7515362,
+    long 4.837849
+  },
+  {
+    Nom Le Simone,
+    Type Bars,
+    Note Noté 55,
+    Adresse 45, rue Vaubecour Lyon 69002,
+    Tel 06 89 57 85 93,
+    Colonne1 ,
+    lat 45.7517653,
+    long 4.8247349
+  },
+  {
+    Nom B! Bistrot Carnot,
+    Type Café bar,
+    Note Noté 35,
+    Adresse 3, place Carnot Lyon 69002,
+    Tel 04 78 37 13 65,
+    Colonne1 ,
+    lat 45.7517781,
+    long 4.8279992
+  },
+  {
+    Nom L'Alchimiste,
+    Type Bars,
+    Note Noté 4.55,
+    Adresse 14, rue d'Enghien Lyon 69002,
+    Tel ,
+    Colonne1 ,
+    lat 45.7519565,
+    long 4.8261968
+  },
+  {
+    Nom Les Mangeurs de Toiles,
+    Type Restaurants,
+    Note Noté 55,
+    Adresse 14, rue d'Enghien Lyon 69002,
+    Tel 04 72 13 80 81,
+    Colonne1 ,
+    lat 45.7519565,
+    long 4.8261968
+  },
+  {
+    Nom Edwin's Wine Bar,
+    Type Bars,
+    Note ,
+    Adresse 164 bis, rue de Créqui Lyon 69003,
+    Tel 06 50 43 63 05,
+    Colonne1 ,
+    lat 45.7520679,
+    long 4.8491331
+  },
+  {
+    Nom La Fourmilière,
+    Type Café bar,
+    Note Noté 45,
+    Adresse 15 Rue Salomon Reinach, 69007 Lyon,
+    Tel 04 72 73 24 60,
+    Colonne1 ,
+    lat 45.752293,
+    long 4.8395585
+  },
+  {
+    Nom La Cevichela,
+    Type Bar à ceviche,
+    Note Noté 55,
+    Adresse 18, rue de Bonald Lyon 69007,
+    Tel 04 37 70 11 25,
+    Colonne1 ,
+    lat 45.7530565,
+    long 4.8403526
+  },
+  {
+    Nom Livestation DIY,
+    Type Bar à tapas,
+    Note Noté 4.55,
+    Adresse 14, rue de Bonald Lyon 69007,
+    Tel 04 26 01 87 39,
+    Colonne1 ,
+    lat 45.7532104,
+    long 4.8398951
+  },
+  {
+    Nom La Cour des Grands,
+    Type Bar à tapas,
+    Note Noté 35,
+    Adresse 60, montée de Choulans Lyon 69005,
+    Tel 04 78 37 23 95,
+    Colonne1 ,
+    lat 45.7536958,
+    long 4.8192531
+  },
+  {
+    Nom Table et Vins d'Ainay,
+    Type Bar à Vins,
+    Note ,
+    Adresse 3 rue des remparts d'Ainay Lyon 69002,
+    Tel 09 80 75 80 52,
+    Colonne1 ,
+    lat 45.7536965,
+    long 4.8280786
+  },
+  {
+    Nom Aromo,
+    Type Bar à vin,
+    Note Noté 4.55,
+    Adresse 15, rue Montesquieu Lyon 69007,
+    Tel 04 78 69 07 35,
+    Colonne1 ,
+    lat 45.7537021,
+    long 4.8406552
+  },
+  {
+    Nom Le Gonzo Bar,
+    Type Bar festif,
+    Note Noté 55,
+    Adresse 3, rue Montesquieu Lyon 69007,
+    Tel 09 52 83 07 50,
+    Colonne1 ,
+    lat 45.7541011,
+    long 4.8394802
+  },
+  {
+    Nom Obamo Café,
+    Type Bars,
+    Note Noté 4.55,
+    Adresse 124, rue du Dauphiné   Lyon 69003,
+    Tel 09 51 48 26 36,
+    Colonne1 ,
+    lat 45.7542203,
+    long 4.8734388
+  },
+  {
+    Nom La Faute aux Ours,
+    Type Bar,
+    Note Noté 45,
+    Adresse 4 Grande Rue de la Guillotière, 69007 Lyon,
+    Tel 09 52 95 80 41,
+    Colonne1 ,
+    lat 45.7547617,
+    long 4.8431711
+  },
+  {
+    Nom Mademoiselle Rêve,
+    Type Bar à vin,
+    Note Noté 55,
+    Adresse 215, rue Vendôme Lyon 69003,
+    Tel 04 78 37 68 14,
+    Colonne1 ,
+    lat 45.7548936,
+    long 4.8477799
+  },
+  {
+    Nom De l'Autre Côté du Pont,
+    Type Spectacles,
+    Note Noté 4.55,
+    Adresse 25, crs Gambetta Lyon 69003,
+    Tel 04 78 95 14 93,
+    Colonne1 ,
+    lat 45.7548939,
+    long 4.8444873
+  },
+  {
+    Nom The Antidote Pub,
+    Type Pub,
+    Note Noté 4.55,
+    Adresse 108, rue St-Georges Lyon 69005,
+    Tel 04 78 37 54 94,
+    Colonne1 ,
+    lat 45.755942,
+    long 4.82399725224888
+  },
+  {
+    Nom Le Gambetta,
+    Type Café bar,
+    Note Noté 1.55,
+    Adresse 3, crs Gambetta Lyon 69003,
+    Tel 04 78 60 29 69,
+    Colonne1 ,
+    lat 45.7559754,
+    long 4.8415561
+  },
+  {
+    Nom Le Bar de la Colline Chez Alberta,
+    Type Café bar,
+    Note ,
+    Adresse 61, rue Trion Lyon 69005,
+    Tel ,
+    Colonne1 ,
+    lat 45.7563335,
+    long 4.8172781
+  },
+  {
+    Nom Ed's Eat & Drinks,
+    Type Pub,
+    Note Noté 35,
+    Adresse 5 Place Antonin Poncet, 69002 Lyon,
+    Tel 04 72 40 25 38,
+    Colonne1 ,
+    lat 45.7565487,
+    long 4.8348635
+  },
+  {
+    Nom Tony's,
+    Type Bars,
+    Note ,
+    Adresse 10, rue des Marronniers Lyon 69002,
+    Tel 04 72 77 56 39,
+    Colonne1 ,
+    lat 45.7567386,
+    long 4.8345591
+  },
+  {
+    Nom L'encart,
+    Type Bar à tapas,
+    Note Noté 2.55,
+    Adresse 30, rue du Plat Lyon 69002,
+    Tel 04 78 03 13 67,
+    Colonne1 ,
+    lat 45.7567821,
+    long 4.8282071
+  },
+  {
+    Nom Le Temps d'une Pause,
+    Type Bars,
+    Note ,
+    Adresse 33, rue de Trion Lyon 69005,
+    Tel ,
+    Colonne1 ,
+    lat 45.7568123,
+    long 4.81616
+  },
+  {
+    Nom Taverne · Gutenberg,
+    Type Bar concept,
+    Note ,
+    Adresse 5, rue de l'Épée Lyon 69003,
+    Tel 06 82 32 10 84,
+    Colonne1 ,
+    lat 45.7568304,
+    long 4.843359
+  },
+  {
+    Nom Johnny Walsh's,
+    Type Pub,
+    Note Noté 4.55,
+    Adresse 56, rue St-Georges Lyon 69005,
+    Tel 04 78 42 98 76,
+    Colonne1 ,
+    lat 45.7573886,
+    long 4.8247844
+  },
+  {
+    Nom Johnny's Kitchen Irish Pub,
+    Type Pub,
+    Note Noté 4.55,
+    Adresse 48, rue St-Georges Lyon 69005,
+    Tel 04 78 37 94 13,
+    Colonne1 ,
+    lat 45.7576167,
+    long 4.8248725
+  },
+  {
+    Nom Le Monopol,
+    Type Café bar,
+    Note ,
+    Adresse 5 Rue de la Barre Lyon 69002,
+    Tel ,
+    Colonne1 ,
+    lat 45.7577564,
+    long 4.8352214
+  },
+  {
+    Nom Café Bellecour,
+    Type Café bar,
+    Note Noté 1.55,
+    Adresse 33,  place Bellecour Lyon 69002,
+    Tel 04 78 37 03 63,
+    Colonne1 ,
+    lat 45.7579756,
+    long 4.8301119
+  },
+  {
+    Nom Daddy Poule,
+    Type Restaurants,
+    Note ,
+    Adresse 173 Avenue Charles de Gaulle, 69160 Tassin-la-Demi-Lune,
+    Tel 04 74 70 07 07,
+    Colonne1 ,
+    lat 45.7583187,
+    long 4.77585254767912
+  },
+  {
+    Nom Le 20,
+    Type Bar à vin,
+    Note Noté 3.55,
+    Adresse 20, rue Bellecordière Lyon 69002,
+    Tel 04 72 16 26 29,
+    Colonne1 ,
+    lat 45.7583233,
+    long 4.8355937
+  },
+  {
+    Nom Bar Berliner,
+    Type Bar berlinois,
+    Note ,
+    Adresse 20, rue Saint-Georges Lyon 69005,
+    Tel 04 78 60 93 60,
+    Colonne1 ,
+    lat 45.758583,
+    long 4.8253642
+  },
+  {
+    Nom Café Luna,
+    Type Bar à tapas,
+    Note Noté 4.55,
+    Adresse 24, rue du Doyenné Lyon 69005,
+    Tel 09 61 20 41 07,
+    Colonne1 ,
+    lat 45.7586949,
+    long 4.8258839
+  },
+  {
+    Nom Party Rock Bar,
+    Type Bar festif,
+    Note Noté 4.55,
+    Adresse 3, rue du Plat Lyon 69002,
+    Tel 06 34 09 52 31,
+    Colonne1 ,
+    lat 45.7587115,
+    long 4.8298323
+  },
+  {
+    Nom Au Tooley's,
+    Type Pub,
+    Note Noté 3.55,
+    Adresse 7, quai Fulchiron Lyon 69005,
+    Tel 04 72 40 00 92,
+    Colonne1 ,
+    lat 45.7589013,
+    long 4.8269952
+  },
+  {
+    Nom Le Little,
+    Type Café comptoir,
+    Note Noté 3.55,
+    Adresse 6, rue Bellecordière Lyon 69002,
+    Tel 06 19 12 79 95,
+    Colonne1 ,
+    lat 45.7589045,
+    long 4.8358827
+  },
+  {
+    Nom Le comptoir des artistes,
+    Type Cuisine du marché,
+    Note Noté 45,
+    Adresse 98, rue Mazenod  Lyon 69003,
+    Tel 09 83 73 30 81,
+    Colonne1 ,
+    lat 45.7589048,
+    long 4.8487194
+  },
+  {
+    Nom Par Saint Georges,
+    Type Pub,
+    Note Noté 05,
+    Adresse 8 rue Saint Georges Lyon 69005,
+    Tel 09 53 62 41 13,
+    Colonne1 ,
+    lat 45.7589852,
+    long 4.8254862
+  },
+  {
+    Nom Jazz Club  Lyon St Georges,
+    Type Café-concert,
+    Note Noté 55,
+    Adresse 4, rue St-Georges Lyon 69005,
+    Tel 04 78 03 88 71,
+    Colonne1 ,
+    lat 45.7591816,
+    long 4.8254921
+  },
+  {
+    Nom Bistrot de la Botte,
+    Type Bar gourmand,
+    Note Noté 55,
+    Adresse 8, rue Monseigneur Lavarenne Lyon 69005,
+    Tel 04 72 16 26 37,
+    Colonne1 Besoin d'information complémentaire,
+    lat 45.7592647,
+    long 4.8269252
+  },
+  {
+    Nom L'Akroche,
+    Type Bars,
+    Note ,
+    Adresse 8, rue Monseigneur Lavarenne Lyon 69005,
+    Tel ,
+    Colonne1 ,
+    lat 45.7592647,
+    long 4.8269252
+  },
+  {
+    Nom Melting Pub,
+    Type Bars,
+    Note Noté 45,
+    Adresse 9, rue du Doyenné Lyon 69005,
+    Tel 04 72 40 98 52,
+    Colonne1 ,
+    lat 45.7593446,
+    long 4.8262579
+  },
+  {
+    Nom Wee-An,
+    Type Bars,
+    Note Noté 3.55,
+    Adresse 7, Rue de la Part Dieu Lyon 69003,
+    Tel 04 72 41 76 45,
+    Colonne1 ,
+    lat 45.7593716,
+    long 4.843281
+  },
+  {
+    Nom Betty's,
+    Type Café bar,
+    Note Noté 4.55,
+    Adresse 4, rue Mourguet Lyon 69005,
+    Tel 04 78 37 07 96,
+    Colonne1 ,
+    lat 45.7597886,
+    long 4.8260993
+  },
+  {
+    Nom Le Grand Café de La Préfecture,
+    Type Bar à vin,
+    Note Noté 55,
+    Adresse 10, rue Servient Lyon 69003,
+    Tel 04 72 60 87 60,
+    Colonne1 ,
+    lat 45.7598384,
+    long 4.8421115
+  },
+  {
+    Nom Côté Part-Dieu,
+    Type Bar à vin,
+    Note Noté 55,
+    Adresse 105, rue de la Part-Dieu  Lyon 69003,
+    Tel 04 26 63 61 36,
+    Colonne1 ,
+    lat 45.7599771,
+    long 4.8514255
+  },
+  {
+    Nom Illy Espressamente,
+    Type Bars,
+    Note ,
+    Adresse Place Charles Béraudier, 69003 Lyon,
+    Tel 04 37 56 90 75,
+    Colonne1 ,
+    lat 45.7599788,
+    long 4.8587229
+  },
+  {
+    Nom Jazzy’s Corner,
+    Type Bar à cocktail,
+    Note Noté 45,
+    Adresse 7 Rue Charles Dullin, 69002 Lyon,
+    Tel 06 82 56 34 39,
+    Colonne1 ,
+    lat 45.7601924,
+    long 4.8316083
+  },
+  {
+    Nom La Chapelle Café,
+    Type Bar festif,
+    Note Noté 3.55,
+    Adresse 8, quai des Célestins Lyon 69002,
+    Tel 04 72 56 11 92,
+    Colonne1 ,
+    lat 45.7602791,
+    long 4.8308582
+  },
+  {
+    Nom O' Quai Wine,
+    Type Bar à vin,
+    Note Noté 55,
+    Adresse 8, Quai des Célestins Lyon  69002,
+    Tel 04 78 38 03 30,
+    Colonne1 ,
+    lat 45.7602791,
+    long 4.8308582
+  },
+  {
+    Nom Café des Jacobins,
+    Type Café bar,
+    Note Noté 1.55,
+    Adresse 3, place des Jacobins Lyon  69002,
+    Tel 04 78 37 30 89,
+    Colonne1 ,
+    lat 45.7604789,
+    long 4.8332127
+  },
+  {
+    Nom Buvette Saint Antoine,
+    Type Café bar,
+    Note Noté 35,
+    Adresse 2 Quai des Célestins Lyon  69002,
+    Tel 04 78 42 56 72,
+    Colonne1 ,
+    lat 45.7606016,
+    long 4.8309931
+  },
+  {
+    Nom Le Café de la Cathédrale,
+    Type Bars,
+    Note Noté 2.55,
+    Adresse 41, rue St Jean Lyon 69005,
+    Tel ,
+    Colonne1 ,
+    lat 45.7612253,
+    long 4.8271166
+  },
+  {
+    Nom L'Ange Di Vin,
+    Type Bar à vin,
+    Note Noté 45,
+    Adresse 13, rue de la Monnaie Lyon 69002,
+    Tel 04 72 04 02 52,
+    Colonne1 ,
+    lat 45.7612957,
+    long 4.8319746
+  },
+  {
+    Nom 18M2,
+    Type Cosy bar,
+    Note Noté 55,
+    Adresse 18, rue de la Monnaie Lyon 69002,
+    Tel 07 62 99 04 91,
+    Colonne1 ,
+    lat 45.7613189,
+    long 4.8319039
+  },
+  {
+    Nom James Joyce Pub,
+    Type Pub,
+    Note Noté 35,
+    Adresse 68, rue St-Jean Lyon 69005,
+    Tel 04 78 37 84 28,
+    Colonne1 ,
+    lat 45.7614151,
+    long 4.8271265
+  },
+  {
+    Nom Brooklyn Bar,
+    Type Bar à vin,
+    Note Noté 55,
+    Adresse 14, rue de la Monnaie Lyon 69002,
+    Tel 04 78 37 67 01,
+    Colonne1 ,
+    lat 45.7614185,
+    long 4.8320638
+  },
+  {
+    Nom La boutique Aoste,
+    Type L'expérience des sens,
+    Note ,
+    Adresse 88, rue Mercière Lyon 69002,
+    Tel 04 26 55 27 99,
+    Colonne1 ,
+    lat 45.7614847,
+    long 4.8330364
+  },
+  {
+    Nom Samy Café,
+    Type Bars,
+    Note Noté 3.55,
+    Adresse 12  rue de la Monnaie Lyon 69002,
+    Tel 04 72 41 01 31,
+    Colonne1 ,
+    lat 45.7615262,
+    long 4.8321958
+  },
+  {
+    Nom Wallace Snug,
+    Type Pub,
+    Note Noté 45,
+    Adresse 2, rue Thomassin Lyon 69002,
+    Tel ,
+    Colonne1 ,
+    lat 45.7615709,
+    long 4.8327285
+  },
+  {
+    Nom King Arthur Pub,
+    Type Pub,
+    Note Noté 45,
+    Adresse 10, rue de la Monnaie Lyon 69002,
+    Tel 04 78 60 11 62,
+    Colonne1 ,
+    lat 45.7616062,
+    long 4.8322695
+  },
+  {
+    Nom Café Léone,
+    Type Bars,
+    Note Noté 35,
+    Adresse 8, rue de la Monnaie Lyon 69002,
+    Tel 04 78 92 93 70,
+    Colonne1 ,
+    lat 45.7616933,
+    long 4.8323445
+  },
+  {
+    Nom 1Solites Caffe,
+    Type Bar festif,
+    Note ,
+    Adresse 32 rue du Palais Grillet Lyon 69002,
+    Tel 04 72 40 97 57,
+    Colonne1 ,
+    lat 45.761947,
+    long 4.8352841
+  },
+  {
+    Nom Eden Rock Café,
+    Type Bar à concert,
+    Note Noté 2.55,
+    Adresse 68, rue Mercière Lyon 69002,
+    Tel 04 78 38 28 18,
+    Colonne1 ,
+    lat 45.7619946,
+    long 4.8328983
+  },
+  {
+    Nom Ninkasi Cordeliers,
+    Type Bar à Bière,
+    Note Noté 35,
+    Adresse 22, rue Ferrandière Lyon 69002,
+    Tel 04 72 77 91 47,
+    Colonne1 ,
+    lat 45.7620876,
+    long 4.8350047
+  },
+  {
+    Nom Look Bar,
+    Type Bar à Murge,
+    Note Noté 45,
+    Adresse 2, rue du Palais de Justice Lyon 69005,
+    Tel 04 78 37 38 94,
+    Colonne1 ,
+    lat 45.7622831,
+    long 4.8285561
+  },
+  {
+    Nom La fonderie,
+    Type Bar à bière,
+    Note Noté 4.55,
+    Adresse 19 , Quai Romain Rolland  Lyon 69005,
+    Tel ,
+    Colonne1 ,
+    lat 45.7625969,
+    long 4.8288288
+  },
+  {
+    Nom La RéServe,
+    Type Bar à vin,
+    Note Noté 3.55,
+    Adresse 163, rue de Créqui  Lyon 69003,
+    Tel 04 78 62 34 72,
+    Colonne1 ,
+    lat 45.7627227,
+    long 4.8473041
+  },
+  {
+    Nom Since the Cavern,
+    Type Pub,
+    Note Noté 45,
+    Adresse 11, rue des Trois Maries Lyon 69005,
+    Tel 06 20 50 12 49,
+    Colonne1 ,
+    lat 45.7628347,
+    long 4.8284123
+  },
+  {
+    Nom Plein Sud,
+    Type Bars,
+    Note ,
+    Adresse 3, rue Tupin Lyon 69002,
+    Tel ,
+    Colonne1 ,
+    lat 45.762911,
+    long 4.8330037
+  },
+  {
+    Nom St James,
+    Type Pub,
+    Note Noté 3.55,
+    Adresse 19, rue St-Jean Lyon 69005,
+    Tel 04 78 37 36 70,
+    Colonne1 ,
+    lat 45.7630026,
+    long 4.8279502
+  },
+  {
+    Nom La Mouss'tache - Saint-Antoine,
+    Type Restaurants,
+    Note ,
+    Adresse 19, quai St-Antoine Lyon 69002,
+    Tel 04 78 79 17 58,
+    Colonne1 ,
+    lat 45.7630776,
+    long 4.8321546
+  },
+  {
+    Nom BMD,
+    Type Bar à vin,
+    Note Noté 45,
+    Adresse 3, rue des Trois Maries Lyon 69005,
+    Tel 04 72 4138 11,
+    Colonne1 ,
+    lat 45.7631221,
+    long 4.8284584
+  },
+  {
+    Nom Bar Le Florian,
+    Type Bar à cocktail,
+    Note Noté 55,
+    Adresse 3, rue de la Baleine Lyon 69005,
+    Tel 04 78 42 24 37,
+    Colonne1 ,
+    lat 45.7632828,
+    long 4.8285282
+  },
+  {
+    Nom Kelly's Irish Pub,
+    Type Irish Pub,
+    Note Noté 3.55,
+    Adresse 12 Quai Romain Rolland, 69005 Lyon,
+    Tel 04 78 85 53 31,
+    Colonne1 ,
+    lat 45.7636169,
+    long 4.8289356
+  },
+  {
+    Nom La Coulée Douce,
+    Type Bar à vin,
+    Note Noté 4.55,
+    Adresse 4, rue de la Fronde Lyon 69005,
+    Tel 04 78 95 39 98,
+    Colonne1 ,
+    lat 45.763989,
+    long 4.8279084
+  },
+  {
+    Nom Bus Café,
+    Type Bar festif,
+    Note Noté 15,
+    Adresse 18 Quai Général Sarrail, 69006 Lyon,
+    Tel 06 12 10 59 30,
+    Colonne1 ,
+    lat 45.7640763,
+    long 4.8418859
+  },
+  {
+    Nom Le Tono,
+    Type Bar à vin,
+    Note Noté 35,
+    Adresse 17, rue Claudia Lyon 69002,
+    Tel 04 78 59 57 83,
+    Colonne1 ,
+    lat 45.7642037,
+    long 4.8376517
+  },
+  {
+    Nom San Marco,
+    Type Bars,
+    Note ,
+    Adresse 127, rue des Charmettes Lyon 69006,
+    Tel ,
+    Colonne1 ,
+    lat 45.7646032,
+    long 4.8671548
+  },
+  {
+    Nom Fleming's,
+    Type Pub,
+    Note Noté 45,
+    Adresse 2, rue de la Loge  Lyon 69005,
+    Tel 09 83 06 82 47,
+    Colonne1 ,
+    lat 45.7646275,
+    long 4.8278512
+  },
+  {
+    Nom Le Big White,
+    Type Bar festif,
+    Note Noté 45,
+    Adresse 22, rue Lainerie Lyon 69005,
+    Tel 04 78 29 54 53,
+    Colonne1 ,
+    lat 45.7646449,
+    long 4.8281015
+  },
+  {
+    Nom le Cap 6,
+    Type Bars,
+    Note Noté 0.55,
+    Adresse 31 bis, Rue du Président Edouard Herriot  Lyon 69002,
+    Tel ,
+    Colonne1 ,
+    lat 45.7646686,
+    long 4.8346335
+  },
+  {
+    Nom Hall de la Bourse,
+    Type Bar branché,
+    Note Noté 0.55,
+    Adresse 37, rue de la Bourse Lyon 69002,
+    Tel 04 78 03 59 63,
+    Colonne1 ,
+    lat 45.7646896,
+    long 4.836959
+  },
+  {
+    Nom Le Hall de la Bourse,
+    Type Bar festif,
+    Note Noté 35,
+    Adresse 37, rue de la Bourse Lyon 69002,
+    Tel 04 78 03 59 63,
+    Colonne1 ,
+    lat 45.7646896,
+    long 4.836959
+  },
+  {
+    Nom The Smoking Dog,
+    Type Pub,
+    Note Noté 45,
+    Adresse 16, rue Lainerie Lyon 69005,
+    Tel 04 78 28 38 27,
+    Colonne1 ,
+    lat 45.7648858,
+    long 4.8280342
+  },
+  {
+    Nom La Ruche,
+    Type Bar gay,
+    Note Noté 3.55,
+    Adresse 22, rue Gentil Lyon 69002,
+    Tel 04 78 37 42 26,
+    Colonne1 ,
+    lat 45.7649802,
+    long 4.83784
+  },
+  {
+    Nom Evolution,
+    Type Bar Lounge,
+    Note Noté 45,
+    Adresse 10, rue de la Bourse Lyon 69002,
+    Tel 04 78 39 51 08,
+    Colonne1 ,
+    lat 45.7650765,
+    long 4.8367969
+  },
+  {
+    Nom Matapo Le Récamier,
+    Type Bars,
+    Note ,
+    Adresse 21, rue Juliette Récamier Lyon 69006,
+    Tel ,
+    Colonne1 ,
+    lat 45.7650924,
+    long 4.8545218
+  },
+  {
+    Nom Le M.o.M.a.,
+    Type Bar à vin,
+    Note Noté 35,
+    Adresse 8, rue Chavanne Lyon 69001,
+    Tel 04 26 65 86 01,
+    Colonne1 ,
+    lat 45.7651562,
+    long 4.8322575
+  },
+  {
+    Nom La Cave d'à Côté,
+    Type Bar à vin,
+    Note Noté 3.55,
+    Adresse 7, rue Pleney Lyon 69001,
+    Tel 04 78 28 31 46,
+    Colonne1 ,
+    lat 45.7651835,
+    long 4.8334007
+  },
+  {
+    Nom L'Harmonie des Vins,
+    Type Bar à vin,
+    Note Noté 3.55,
+    Adresse 9, rue Neuve Lyon 69001,
+    Tel 04 72 98 85 59,
+    Colonne1 ,
+    lat 45.7652674,
+    long 4.8351282
+  },
+  {
+    Nom Le Temps des Copains,
+    Type Bar festif,
+    Note Noté 45,
+    Adresse 18, rue Longue Lyon 69001,
+    Tel 06 25 22 20 10,
+    Colonne1 ,
+    lat 45.7653019,
+    long 4.8335071
+  },
+  {
+    Nom Autour d'un verre,
+    Type Bar à vin,
+    Note Noté 45,
+    Adresse 20, rue Longue Lyon 69001,
+    Tel 09 81 71 88 13,
+    Colonne1 ,
+    lat 45.765315,
+    long 4.8336662
+  },
+  {
+    Nom The Beers,
+    Type Bar à Bière,
+    Note Noté 3.55,
+    Adresse 3, place St-Paul Lyon 69005,
+    Tel 04 72 00 23 60,
+    Colonne1 ,
+    lat 45.7655276,
+    long 4.8276677
+  },
+  {
+    Nom Hot Club,
+    Type Spectacles,
+    Note Noté 4.55,
+    Adresse 26, rue Lanterne Lyon 69001,
+    Tel 04 78 39 54 74,
+    Colonne1 ,
+    lat 45.7656446,
+    long 4.8319846
+  },
+  {
+    Nom Café Chenavard,
+    Type Café bar,
+    Note Noté 3.55,
+    Adresse 20 Rue Paul Chenavard, 69001 Lyon,
+    Tel 04 78 28 64 14,
+    Colonne1 ,
+    lat 45.7656785,
+    long 4.8328461
+  },
+  {
+    Nom Cactus Café,
+    Type Café bar,
+    Note Noté 4.55,
+    Adresse 12 place St-Paul  Lyon 69005,
+    Tel 04 72 07 67 95,
+    Colonne1 ,
+    lat 45.7657951,
+    long 4.8274785
+  },
+  {
+    Nom Le Baràgones,
+    Type Bar à cocktails,
+    Note Noté 55,
+    Adresse 5, place St-Paul Lyon 69005,
+    Tel 04 78 69 02 06,
+    Colonne1 ,
+    lat 45.7658457,
+    long 4.8276978
+  },
+  {
+    Nom L'Interlude,
+    Type Bars,
+    Note Noté 3.55,
+    Adresse 8, rue de la Platière Lyon 69001,
+    Tel 04 78 28 35 96,
+    Colonne1 ,
+    lat 45.7658995,
+    long 4.8313883
+  },
+  {
+    Nom Le Bistrouille,
+    Type Café bar,
+    Note Noté 4.55,
+    Adresse 19, place St-Paul Lyon 69005,
+    Tel 04 72 07 74 17,
+    Colonne1 Visite fromagerie pour info complémentaire,
+    lat 45.7659608,
+    long 4.8275921
+  },
+  {
+    Nom Le passage,
+    Type Bar à cocktail,
+    Note ,
+    Adresse 8, rue du Plâtre Lyon 69001,
+    Tel 04 78 28 11 16,
+    Colonne1 ,
+    lat 45.7660466,
+    long 4.8338702
+  },
+  {
+    Nom Elephant & Castle,
+    Type Pub,
+    Note Noté 4.55,
+    Adresse 16, quai de Bondy Lyon 69005,
+    Tel 04 72 26 63 86,
+    Colonne1 ,
+    lat 45.7660913,
+    long 4.8286678
+  },
+  {
+    Nom La Cave des Voyageurs,
+    Type Bar à vin,
+    Note Noté 45,
+    Adresse 7, place St-Paul Lyon 69005,
+    Tel 04 78 28 92 28,
+    Colonne1 ,
+    lat 45.7661563,
+    long 4.8276396
+  },
+  {
+    Nom Broc'Bar,
+    Type Café bar,
+    Note Noté 35,
+    Adresse 20, rue Lanterne Lyon 69001,
+    Tel 04 78 30 82 61,
+    Colonne1 ,
+    lat 45.7662206,
+    long 4.8317541
+  },
+  {
+    Nom Le L bar,
+    Type Bar à cocktail,
+    Note Noté 4.55,
+    Adresse 19, rue du Garet Lyon 69001,
+    Tel 04 78 27 83 18,
+    Colonne1 ,
+    lat 45.7663348,
+    long 4.8369038
+  },
+  {
+    Nom Interface Club,
+    Type Bars,
+    Note Noté 4.55,
+    Adresse 35 Quai de Pierre-Scize, 69009 Lyon,
+    Tel 04 78 29 84 73,
+    Colonne1 ,
+    lat 45.7664088,
+    long 4.817739
+  },
+  {
+    Nom La Mi Graine,
+    Type Bar à bière,
+    Note Noté 45,
+    Adresse 11, place St-Paul Lyon 69005,
+    Tel 04 78 27 73 88,
+    Colonne1 ,
+    lat 45.7664433,
+    long 4.8273998
+  },
+  {
+    Nom Elody's Pub,
+    Type Bars,
+    Note Noté 45,
+    Adresse 10 quai de Bondy Lyon 69005,
+    Tel 04 78 27 21 20,
+    Colonne1 ,
+    lat 45.7664849,
+    long 4.8282613
+  },
+  {
+    Nom Le Comptoir des Copains,
+    Type Bars,
+    Note ,
+    Adresse 5, Rue de l'Arbre Sec Lyon 69001,
+    Tel 04 72 00 82 29,
+    Colonne1 ,
+    lat 45.7665144,
+    long 4.8349829
+  },
+  {
+    Nom La Fiesta Loca,
+    Type Bars,
+    Note Noté 45,
+    Adresse 110 , Quai Pierre Scize  Lyon 69005,
+    Tel 06 99 73 08 98,
+    Colonne1 ,
+    lat 45.7665603,
+    long 4.8197682
+  },
+  {
+    Nom Pick Me Up,
+    Type Bar à cocktail,
+    Note Noté 45,
+    Adresse 13, rue Lanterne Lyon 69001,
+    Tel 04 78 28 21 69,
+    Colonne1 ,
+    lat 45.7665813,
+    long 4.8318689
+  },
+  {
+    Nom The Daughter Wine Bar,
+    Type Bar à vin,
+    Note Noté 55,
+    Adresse 21, quai de Bondy Lyon 69005,
+    Tel 04 78 72 15 44,
+    Colonne1 ,
+    lat 45.7666344,
+    long 4.8282166
+  },
+  {
+    Nom L'Etoile Opéra,
+    Type Bars,
+    Note Noté 35,
+    Adresse 26, rue de l'Arbre Sec Lyon 69001,
+    Tel ,
+    Colonne1 ,
+    lat 45.7666429,
+    long 4.8363654
+  },
+  {
+    Nom Le Baryton,
+    Type Bar à concert,
+    Note Noté 35,
+    Adresse 30, rue de l'Arbre Sec Lyon 69001,
+    Tel 04 78 28 34 41,
+    Colonne1 ,
+    lat 45.7666755,
+    long 4.8365835
+  },
+  {
+    Nom Aloha,
+    Type Bar festif,
+    Note Noté 4.55,
+    Adresse 4, rue Pizay Lyon 69001,
+    Tel ,
+    Colonne1 ,
+    lat 45.7667395,
+    long 4.834631
+  },
+  {
+    Nom Ninkasi Hotel de Ville,
+    Type Bars,
+    Note Noté 35,
+    Adresse 27, rue de l'Arbre Sec Lyon 69001,
+    Tel 04 78 28 37 74,
+    Colonne1 ,
+    lat 45.7667574,
+    long 4.8374043
+  },
+  {
+    Nom Victoire et Thomas (Bar),
+    Type Bar à vin et spiritueux,
+    Note ,
+    Adresse 27, rue de l'Arbre sec Lyon 69001,
+    Tel 04 81 11 86 19,
+    Colonne1 ,
+    lat 45.7667574,
+    long 4.8374043
+  },
+  {
+    Nom Le Bistro des Filles,
+    Type Bars,
+    Note Noté 55,
+    Adresse 23, rue de l'Arbre Sec Lyon 69001,
+    Tel 04 72 73 14 34,
+    Colonne1 ,
+    lat 45.7667792,
+    long 4.837039
+  },
+  {
+    Nom Black Forest Society,
+    Type Bar à cocktail,
+    Note Noté 4.55,
+    Adresse 29, rue de l’Arbre-Sec Lyon 69001,
+    Tel 09 66 91 98 18,
+    Colonne1 ,
+    lat 45.7667943,
+    long 4.8375558
+  },
+  {
+    Nom Café 203,
+    Type Bars,
+    Note Noté 35,
+    Adresse 9  rue du Garet Lyon 69001,
+    Tel 04 78 28 66 65,
+    Colonne1 ,
+    lat 45.7668673,
+    long 4.8369026
+  },
+  {
+    Nom Au coude à coude,
+    Type Bars,
+    Note Noté 55,
+    Adresse 120 rue Bugeaud Lyon 69006,
+    Tel ,
+    Colonne1 ,
+    lat 45.7669561,
+    long 4.8551636
+  },
+  {
+    Nom Rambler 2.0,
+    Type Bar à Murge,
+    Note Noté 2.55,
+    Adresse 7, rue Pizay Lyon 69001,
+    Tel 04 78 27 31 24,
+    Colonne1 ,
+    lat 45.76697,
+    long 4.8353344
+  },
+  {
+    Nom Le 405,
+    Type Bar à bière,
+    Note Noté 4.55,
+    Adresse 9, rue Constantine Lyon 69001,
+    Tel 09 82 20 25 13,
+    Colonne1 ,
+    lat 45.7670814,
+    long 4.8319874
+  },
+  {
+    Nom Les BerThoM (Presqu'île),
+    Type Bar à Bière,
+    Note Noté 45,
+    Adresse 24, rue Pizay Lyon 69001,
+    Tel 09 62 25 14 34,
+    Colonne1 ,
+    lat 45.7671854,
+    long 4.8366045
+  },
+  {
+    Nom Le Blind Pig,
+    Type Bars,
+    Note ,
+    Adresse 64, rue Ney Lyon 69006,
+    Tel 04 78 52 98 17,
+    Colonne1 ,
+    lat 45.7673101,
+    long 4.8555473
+  },
+  {
+    Nom Juliette Bar & Cocktails,
+    Type Bar à cocktail,
+    Note Noté 35,
+    Adresse 41 Rue Juliette Récamier, 69006 Lyon,
+    Tel 04 78 52 83 80,
+    Colonne1 ,
+    lat 45.7674058,
+    long 4.8575822
+  },
+  {
+    Nom Sky Bar,
+    Type Bars,
+    Note Noté 55,
+    Adresse 26, rue Hippolyte Flandrin Lyon 69001,
+    Tel 04 78 23 06 60,
+    Colonne1 ,
+    lat 45.7675918,
+    long 4.8308316
+  },
+  {
+    Nom Boston Café,
+    Type Pub & Bar dansant,
+    Note Noté 25,
+    Adresse 8, place des Terreaux Lyon 69001,
+    Tel 04 78 23 42 90,
+    Colonne1 ,
+    lat 45.7677466,
+    long 4.8330971
+  },
+  {
+    Nom Boston Tavern,
+    Type Bar à Bière,
+    Note Noté 3.55,
+    Adresse 8, place des Terreaux Lyon 69001,
+    Tel 04 78 39 32 48,
+    Colonne1 ,
+    lat 45.7677466,
+    long 4.8330971
+  },
+  {
+    Nom Boston Trattoria,
+    Type Café bar,
+    Note Noté 0.55,
+    Adresse 8 Place des Terreaux, 69001 Lyon,
+    Tel 04 69 84 39 45,
+    Colonne1 ,
+    lat 45.7677466,
+    long 4.8330971
+  },
+  {
+    Nom Le Comptoir de l'Est,
+    Type Bars,
+    Note ,
+    Adresse 14, place Jules Ferry Lyon 69006,
+    Tel 04 82 91 03 03,
+    Colonne1 ,
+    lat 45.7678103,
+    long 4.8597064
+  },
+  {
+    Nom L'Epicerie Comptoir (Brotteaux),
+    Type Bars,
+    Note Noté 3.55,
+    Adresse 192 rue Cuvier Lyon 69006,
+    Tel 09 53 13 49 68,
+    Colonne1 ,
+    lat 45.7678534,
+    long 4.8577217
+  },
+  {
+    Nom L'Horloge,
+    Type BAR,
+    Note ,
+    Adresse 34 bis, bd des Brotteaux Lyon 69006,
+    Tel 04 37 24 30 15,
+    Colonne1 ,
+    lat 45.7679907,
+    long 4.8569703
+  },
+  {
+    Nom Wild Krona,
+    Type Pub Scandinave,
+    Note Noté 4.55,
+    Adresse 61, rue Masséna Lyon 69006,
+    Tel 04 37 24 39 31,
+    Colonne1 ,
+    lat 45.7679973,
+    long 4.8545233
+  },
+  {
+    Nom The Albion,
+    Type Pub,
+    Note Noté 4.55,
+    Adresse 12, rue Ste-Catherine Lyon 69001,
+    Tel 06 44 05 04 79,
+    Colonne1 ,
+    lat 45.7681257,
+    long 4.8332643
+  },
+  {
+    Nom Mumbaï Café,
+    Type Bar cocktail et Restaurant,
+    Note Noté 45,
+    Adresse 6, rue Ste-Catherine Lyon 69001,
+    Tel 09 86 35 07 43,
+    Colonne1 ,
+    lat 45.768139,
+    long 4.8329371
+  },
+  {
+    Nom Douala City,
+    Type Bars,
+    Note Noté 55,
+    Adresse 16, rue Ste Catherine Lyon 69001,
+    Tel 09 86 23 28 18,
+    Colonne1 ,
+    lat 45.7681623,
+    long 4.8335834
+  },
+  {
+    Nom Le Pharaon,
+    Type Bars,
+    Note Noté 4.55,
+    Adresse 18, rue Romarin Lyon 69001,
+    Tel ,
+    Colonne1 ,
+    lat 45.7681623,
+    long 4.8341611
+  },
+  {
+    Nom Café Sévilla,
+    Type Bar dansant,
+    Note Noté 4.55,
+    Adresse 7, rue Sainte-Catherine Lyon 69001,
+    Tel 04 78 28 30 49,
+    Colonne1 ,
+    lat 45.768189,
+    long 4.8328436
+  },
+  {
+    Nom The Sham'rock,
+    Type Pub,
+    Note Noté 45,
+    Adresse 15, rue Ste-Catherine Lyon 69001,
+    Tel 06 44 05 04 79,
+    Colonne1 ,
+    lat 45.7682311,
+    long 4.8336692
+  },
+  {
+    Nom Sofffa,
+    Type Café bar, Co-working,
+    Note Noté 55,
+    Adresse 17, rue Ste-Catherine Lyon 69001,
+    Tel 06 66 73 10 41,
+    Colonne1 ,
+    lat 45.7682527,
+    long 4.83392
+  },
+  {
+    Nom Bones and Bottles,
+    Type Bar à Vins,
+    Note Noté 45,
+    Adresse 7, rue de la Martinière Lyon 69001,
+    Tel 04 78 69 90 53,
+    Colonne1 ,
+    lat 45.7682802,
+    long 4.8290242
+  },
+  {
+    Nom SODA Soul and Spirits,
+    Type Bar à cocktails,
+    Note Noté 4.55,
+    Adresse 7, rue de la Martinière Lyon 69001,
+    Tel 04 78 39 06 66,
+    Colonne1 ,
+    lat 45.7682802,
+    long 4.8290242
+  },
+  {
+    Nom Ayers Rock,
+    Type Bar Festif,
+    Note Noté 2.55,
+    Adresse 4, rue Désirée Lyon 69001,
+    Tel 09 72 34 54 81,
+    Colonne1 ,
+    lat 45.768428,
+    long 4.8348983
+  },
+  {
+    Nom Hell's Kitchen,
+    Type Bars,
+    Note Noté 55,
+    Adresse 4 Rue Désirée Lyon 69001,
+    Tel 04 78 29 36 50,
+    Colonne1 ,
+    lat 45.768428,
+    long 4.8348983
+  },
+  {
+    Nom La vida,
+    Type Spécialités étrangères,
+    Note ,
+    Adresse 27 Quai St Vincent  Lyon 69001,
+    Tel 04 69 70 94 95,
+    Colonne1 ,
+    lat 45.7684314,
+    long 4.8229952
+  },
+  {
+    Nom Les Poupées Russes,
+    Type Bar à Shooters,
+    Note Noté 3.55,
+    Adresse 19, rue Désirée Lyon 69001,
+    Tel 04 72 00 80 44,
+    Colonne1 ,
+    lat 45.7684449,
+    long 4.8359546
+  },
+  {
+    Nom Happy Feel,
+    Type Bar à jus,
+    Note ,
+    Adresse 137, av. Thiers Lyon 69006,
+    Tel 09 83 86 89 56,
+    Colonne1 ,
+    lat 45.7684809,
+    long 4.8619311
+  },
+  {
+    Nom Hopstore,
+    Type Bar à bière,
+    Note Noté 55,
+    Adresse 27, rue de la Martinière Lyon 69001,
+    Tel ,
+    Colonne1 ,
+    lat 45.76855365,
+    long 4.83013636370665
+  },
+  {
+    Nom Café du Pond,
+    Type Bar lounge,
+    Note Noté 1.55,
+    Adresse 11, place du Maréchal Lyautey Lyon 69006,
+    Tel 04 78 52 39 99,
+    Colonne1 ,
+    lat 45.7685687,
+    long 4.8411384
+  },
+  {
+    Nom Barberousse,
+    Type Bar à Shooters,
+    Note Noté 3.55,
+    Adresse 18, rue Terraille Lyon 69001,
+    Tel 04 72 00 80 53,
+    Colonne1 ,
+    lat 45.7686788,
+    long 4.8356646
+  },
+  {
+    Nom Nahual,
+    Type Bars,
+    Note ,
+    Adresse 20, rue Terraille Lyon 69001,
+    Tel ,
+    Colonne1 ,
+    lat 45.7686933,
+    long 4.8357903
+  },
+  {
+    Nom Au fût et à mesure,
+    Type Bar générateur de pression et de convivialité,
+    Note Noté 4.55,
+    Adresse 18 boulevard des brotteaux Lyon 69006,
+    Tel 04 72 37 70 62,
+    Colonne1 ,
+    lat 45.7687646,
+    long 4.8568482
+  },
+  {
+    Nom Les Capucins,
+    Type Bar à concert,
+    Note Noté 45,
+    Adresse 5, place des Capucins Lyon 69001,
+    Tel 04 78 30 10 64,
+    Colonne1 ,
+    lat 45.7687964,
+    long 4.8326156
+  },
+  {
+    Nom Melting Lounge,
+    Type Bars,
+    Note ,
+    Adresse 19 rue Sergent Blandan Lyon 69001,
+    Tel 04 78 69 32 62,
+    Colonne1 ,
+    lat 45.7688296,
+    long 4.8299825
+  },
+  {
+    Nom Le Métronome,
+    Type Bars,
+    Note ,
+    Adresse 16, Bd. des Brotteaux Lyon 69006,
+    Tel 04 72 74 16 16,
+    Colonne1 ,
+    lat 45.7688821,
+    long 4.8568567
+  },
+  {
+    Nom café de la place,
+    Type Bars,
+    Note Noté 45,
+    Adresse 5 Place Sathonay Lyon  69001,
+    Tel 04 78 28 26 88,
+    Colonne1 ,
+    lat 45.7690209,
+    long 4.8307133
+  },
+  {
+    Nom L'Oriental Saphir,
+    Type Bars,
+    Note Noté 4.55,
+    Adresse 13, rue Terme Lyon 69001,
+    Tel 06 16 03 22 39,
+    Colonne1 ,
+    lat 45.7690851,
+    long 4.8316612
+  },
+  {
+    Nom L'Orienthé,
+    Type Bar Lounge,
+    Note Noté 25,
+    Adresse 3, rue des Capucins Lyon 69001,
+    Tel 06 43 05 02 16,
+    Colonne1 ,
+    lat 45.7690921,
+    long 4.8326268
+  },
+  {
+    Nom Le Coup de Folie,
+    Type Bar,
+    Note Noté 4.55,
+    Adresse 2, petite rue des Feuillants Lyon 69001,
+    Tel 09 50 69 86 60,
+    Colonne1 ,
+    lat 45.7692142,
+    long 4.8363833
+  },
+  {
+    Nom Dam's Pub,
+    Type Pub Hollandais,
+    Note Noté 45,
+    Adresse 4, place Sathonay Lyon 69001,
+    Tel 04 72 02 32 50,
+    Colonne1 ,
+    lat 45.769269,
+    long 4.8300466
+  },
+  {
+    Nom Ryad Oriental Lounge,
+    Type Bars,
+    Note Noté 25,
+    Adresse 15, rue des Capucins Lyon 69001,
+    Tel 07 62 45 48 59,
+    Colonne1 ,
+    lat 45.7693013,
+    long 4.8336896
+  },
+  {
+    Nom The Monkey Club,
+    Type Bar à cocktail,
+    Note Noté 3.55,
+    Adresse 19, place Tolozan Lyon 69001,
+    Tel 04 78 27 99 29,
+    Colonne1 ,
+    lat 45.7693554,
+    long 4.8373244
+  },
+  {
+    Nom L'Orangerie,
+    Type Bar et apéritif à la française,
+    Note ,
+    Adresse 4, rue du jardin des Plantes Lyon 69001,
+    Tel 06 77 89 20 77,
+    Colonne1 ,
+    lat 45.7695631,
+    long 4.8296795
+  },
+  {
+    Nom OGills Pub,
+    Type Pub  Lyon,
+    Note Noté 55,
+    Adresse 4, rue du Jardin des Plantes Lyon 69001,
+    Tel 06 23 82 63 96,
+    Colonne1 ,
+    lat 45.7695631,
+    long 4.8296795
+  },
+  {
+    Nom L'Actuel,
+    Type Bars,
+    Note ,
+    Adresse 26 rue des Capucins Lyon 69001,
+    Tel 06 24 84 18 01,
+    Colonne1 ,
+    lat 45.7696028,
+    long 4.8355973
+  },
+  {
+    Nom Flanigan's,
+    Type Pub,
+    Note Noté 45,
+    Adresse 12, rue du Griffon Lyon 69001,
+    Tel 04 78 72 51 68,
+    Colonne1 ,
+    lat 45.7696038,
+    long 4.835759
+  },
+  {
+    Nom L'Antirouille,
+    Type Bar à Tapas,
+    Note ,
+    Adresse 2 place Rouville Lyon 69001,
+    Tel 09 83 80 58 10,
+    Colonne1 ,
+    lat 45.769616,
+    long 4.8250692
+  },
+  {
+    Nom L'Envers des pentes,
+    Type Bar à cocktail,
+    Note Noté 4.55,
+    Adresse 112, montée de la grande Côte Lyon 69001,
+    Tel 04 26 18 05 36,
+    Colonne1 ,
+    lat 45.769708,
+    long 4.831624
+  },
+  {
+    Nom Le Pré-Soir,
+    Type Bar à vin,
+    Note ,
+    Adresse 9, rue du Jardin des Plantes Lyon 69001,
+    Tel 04 27 01 36 74,
+    Colonne1 ,
+    lat 45.769709,
+    long 4.8305404
+  },
+  {
+    Nom Cabana Café - latino club,
+    Type Bar dansant,
+    Note Noté 45,
+    Adresse 30, rue de l'Annonciade Lyon 69001,
+    Tel 04 78 28 85 26,
+    Colonne1 ,
+    lat 45.7697649,
+    long 4.829031
+  },
+  {
+    Nom La Tenaille,
+    Type Bar à bière,
+    Note Noté 4.55,
+    Adresse 8, rue Rivet Lyon 69001,
+    Tel 09 81 77 10 65,
+    Colonne1 ,
+    lat 45.7697658,
+    long 4.8254563
+  },
+  {
+    Nom Les vins augagneur,
+    Type Bars,
+    Note ,
+    Adresse 55, crs Vitton Lyon 69006,
+    Tel 04 78 89 00 52,
+    Colonne1 ,
+    lat 45.7698226,
+    long 4.8553105
+  },
+  {
+    Nom Via Barcatta,
+    Type Bar à vin,
+    Note Noté 55,
+    Adresse 38, rue Tête d'or Lyon 69006,
+    Tel 04 78 89 58 04,
+    Colonne1 ,
+    lat 45.7699664,
+    long 4.8521725
+  },
+  {
+    Nom Bomp!,
+    Type Bars,
+    Note Noté 4.55,
+    Adresse 2 Place Croix-Paquet, 69001 Lyon,
+    Tel 09 73 18 78 43,
+    Colonne1 ,
+    lat 45.7702463,
+    long 4.8363516
+  },
+  {
+    Nom L'Absinthe Bar,
+    Type Bar à Shooters,
+    Note Noté 3.55,
+    Adresse 22, rue de Flesselles Lyon 69001,
+    Tel 04 72 00 20 44,
+    Colonne1 ,
+    lat 45.7702696,
+    long 4.8264772
+  },
+  {
+    Nom Bec de Jazz,
+    Type Bar dansant,
+    Note Noté 3.55,
+    Adresse 19, rue Burdeau Lyon 69001,
+    Tel 06 69 38 74 17,
+    Colonne1 ,
+    lat 45.7704553,
+    long 4.8332058
+  },
+  {
+    Nom Café Galerie,
+    Type Bar festif,
+    Note Noté 2.55,
+    Adresse 19, rue Burdeau Lyon 69001,
+    Tel ,
+    Colonne1 ,
+    lat 45.7704553,
+    long 4.8332058
+  },
+  {
+    Nom Le Phoebus,
+    Type Bars,
+    Note Noté 55,
+    Adresse 22, rue Pouteau Lyon 69001,
+    Tel 06 84 62 52 69,
+    Colonne1 ,
+    lat 45.7708567,
+    long 4.8332494
+  },
+  {
+    Nom Le Fantôme de l'Opéra,
+    Type Bar à cocktail,
+    Note Noté 4.55,
+    Adresse 19, rue Royale Lyon 69001,
+    Tel 04 37 92 03 88,
+    Colonne1 ,
+    lat 45.7710175,
+    long 4.8373342
+  },
+  {
+    Nom Au Comptoir d'Emile,
+    Type Restaurants,
+    Note ,
+    Adresse 61, cours Emile Zola Villeurbanne 69100,
+    Tel 04 78 93 17 01,
+    Colonne1 ,
+    lat 45.7710974,
+    long 4.8683518
+  },
+  {
+    Nom Brazier Wine Bar,
+    Type Bar à vin,
+    Note Noté 3.55,
+    Adresse 14, rue Royale Lyon 69001,
+    Tel 04 78 23 24 26,
+    Colonne1 ,
+    lat 45.771209,
+    long 4.8372233
+  },
+  {
+    Nom La Cordée - Charpennes,
+    Type Bars, Café bars,
+    Note ,
+    Adresse 27, rue Henri Rolland Villeurbanne 69100,
+    Tel 04 20 88 00 24,
+    Colonne1 ,
+    lat 45.7712154,
+    long 4.8632253
+  },
+  {
+    Nom L'Atmo,
+    Type Bar festif,
+    Note Noté 45,
+    Adresse 9, montée des Carmélites Lyon 69001,
+    Tel 04 26 00 93 77,
+    Colonne1 ,
+    lat 45.7713017,
+    long 4.8283455
+  },
+  {
+    Nom Le Farmer,
+    Type Bars,
+    Note Noté 25,
+    Adresse 14, montée des Carmélites Lyon 69001,
+    Tel 04 78 28 21 29,
+    Colonne1 ,
+    lat 45.7714664,
+    long 4.8279933
+  },
+  {
+    Nom La Pinte Douce,
+    Type Café bar,
+    Note Noté 45,
+    Adresse 7, place Colbert Lyon 69001,
+    Tel 04 78 28 43 51,
+    Colonne1 ,
+    lat 45.7723981,
+    long 4.8343488
+  },
+  {
+    Nom Le Pas Sage,
+    Type Bar à Tapas,
+    Note ,
+    Adresse 20, Quai Arloing Lyon 69009,
+    Tel 08 99 23 59 91,
+    Colonne1 ,
+    lat 45.7724187,
+    long 4.8106915
+  },
+  {
+    Nom La Coopérative du Zèbre,
+    Type Bars,
+    Note ,
+    Adresse 22, rue Jean-Baptiste Say Lyon 69001,
+    Tel 06 20 89 44 14,
+    Colonne1 ,
+    lat 45.7730848,
+    long 4.8313407
+  },
+  {
+    Nom Modern Art Café,
+    Type Bars,
+    Note ,
+    Adresse 65, bd de la Croix-Rousse Lyon 69004,
+    Tel 04 72 87 06 82,
+    Colonne1 ,
+    lat 45.7735868,
+    long 4.8225736
+  },
+  {
+    Nom Le Galopin,
+    Type Restaurants,
+    Note ,
+    Adresse 155, bd de la Croix-Rousse Lyon 69004,
+    Tel 04 78 08 60 66,
+    Colonne1 ,
+    lat 45.7744384,
+    long 4.8303485
+  },
+  {
+    Nom Le Chantecler,
+    Type Bars,
+    Note Noté 2.55,
+    Adresse 151, bd de la Croix-Rousse Lyon 69004,
+    Tel 04 78 28 13 69,
+    Colonne1 ,
+    lat 45.774501,
+    long 4.8298662
+  },
+  {
+    Nom Ninkasi Croix-Rousse,
+    Type Bar à bière,
+    Note Noté 35,
+    Adresse 159, boulevard de la Croix-Rousse Lyon 69004,
+    Tel 04 78 28 00 17,
+    Colonne1 ,
+    lat 45.7745785,
+    long 4.8311767
+  },
+  {
+    Nom The Dog's Bollocks,
+    Type Pub,
+    Note Noté 4.55,
+    Adresse 165, bd de la Croix-Rousse Lyon 69004,
+    Tel 04 78 72 77 60,
+    Colonne1 ,
+    lat 45.7747518,
+    long 4.8330755
+  },
+  {
+    Nom Brasserie des écoles,
+    Type Café bar,
+    Note Noté 1.55,
+    Adresse 27, place de la Croix-Rousse Lyon  69004,
+    Tel 04 78 28 12 55,
+    Colonne1 ,
+    lat 45.7748689,
+    long 4.8326325
+  },
+  {
+    Nom Drôle de Zèbre,
+    Type Bar gay-lesbien,
+    Note Noté 55,
+    Adresse 6, rue de Cuire Lyon 69004,
+    Tel 04 72 07 02 89,
+    Colonne1 ,
+    lat 45.7749955,
+    long 4.8309975
+  },
+  {
+    Nom Bull Café,
+    Type Bars,
+    Note ,
+    Adresse 25, place de la Croix-Rousse  Lyon 69004,
+    Tel ,
+    Colonne1 ,
+    lat 45.7750482,
+    long 4.8327171
+  },
+  {
+    Nom L’œnothèque de  Lyon,
+    Type Bars,
+    Note Noté 55,
+    Adresse 15 bis, rue d'Austerlitz Lyon 69004,
+    Tel ,
+    Colonne1 ,
+    lat 45.7752094,
+    long 4.8352644
+  },
+  {
+    Nom L'Oenothèque de  Lyon,
+    Type Bar à vin,
+    Note Noté 55,
+    Adresse 15, rue d'Austerlitz Lyon 69004,
+    Tel 09 82 33 33 02,
+    Colonne1 ,
+    lat 45.7755822,
+    long 4.8350546
+  },
+  {
+    Nom Côté Marietton,
+    Type Bars,
+    Note ,
+    Adresse 82, rue Marietton Lyon 69009,
+    Tel ,
+    Colonne1 ,
+    lat 45.7763372,
+    long 4.7986185
+  },
+  {
+    Nom Le Welcome,
+    Type Bars,
+    Note ,
+    Adresse 22, rue de Cuire  Lyon 69004,
+    Tel ,
+    Colonne1 ,
+    lat 45.7765051,
+    long 4.830402
+  },
+  {
+    Nom Le Bistrot fait sa Broc',
+    Type Café bar,
+    Note Noté 3.55,
+    Adresse 1-3, rue Dumenge Lyon 69004,
+    Tel 04 72 07 93 47,
+    Colonne1 ,
+    lat 45.7767287,
+    long 4.8359582
+  },
+  {
+    Nom Le Lounge Bar,
+    Type Bar lounge,
+    Note ,
+    Adresse Quai Charles de Gaulle  Lyon 69006,
+    Tel ,
+    Colonne1 ,
+    lat 45.7767316,
+    long 4.843774
+  },
+  {
+    Nom Bonsoir Clara,
+    Type Bar à vin,
+    Note Noté 45,
+    Adresse 7, rue du Chariot d'Or Lyon 69004,
+    Tel 04 78 39 04 55,
+    Colonne1 ,
+    lat 45.7776585,
+    long 4.8330481
+  },
+  {
+    Nom La Voguette,
+    Type Bar à tapas,
+    Note ,
+    Adresse 4ter, rue de Belfort Lyon 69004,
+    Tel 04 72 02 17 20,
+    Colonne1 ,
+    lat 45.7787068,
+    long 4.834698
+  },
+  {
+    Nom Arcaneum,
+    Type Bar Gaming,
+    Note Noté 55,
+    Adresse 49 Rue des Antonins Villeurbanne 69100,
+    Tel 06 49 62 22 51,
+    Colonne1 ,
+    lat 45.7790083,
+    long 4.8793339
+  },
+  {
+    Nom Alambik Café,
+    Type Bars,
+    Note ,
+    Adresse 79 Grande rue de la Croix-Rousse Lyon 69004,
+    Tel 04 78 30 42 88,
+    Colonne1 ,
+    lat 45.7800742,
+    long 4.8323674
+  },
+  {
+    Nom Bar du BDE,
+    Type Bars,
+    Note Noté 4.55,
+    Adresse 23 Avenue Guy de Collongue, 69130 Écully,
+    Tel 04 78 33 79 19,
+    Colonne1 ,
+    lat 45.7859567,
+    long 4.76395569037683
+  },
+  {
+    Nom Cubar,
+    Type Bar after work,
+    Note Noté 55,
+    Adresse 23 Avenue Guy de Collongue Écully 69130,
+    Tel ,
+    Colonne1 ,
+    lat 45.7859567,
+    long 4.76395569037683
+  },
+  {
+    Nom JE,
+    Type Bars,
+    Note ,
+    Adresse 23, avenue Guy de Collongue Écully 69134,
+    Tel 04 72 18 58 78,
+    Colonne1 ,
+    lat 45.7859567,
+    long 4.76395569037683
+  },
+  {
+    Nom La Confitizerie,
+    Type Bar festif,
+    Note ,
+    Adresse 23 Avenue Guy de Collongue, 69130 Écully,
+    Tel ,
+    Colonne1 ,
+    lat 45.7859567,
+    long 4.76395569037683
+  },
+  {
+    Nom Bienvenue Chez Juju,
+    Type Bars,
+    Note ,
+    Adresse 4, allée de l'Aurore Dardilly 69570,
+    Tel 09 80 82 88 98,
+    Colonne1 ,
+    lat 45.810254,
+    long 4.752953
+  },
+  {
+    Nom Bar de Glace,
+    Type Bars,
+    Note ,
+    Adresse 57, rue de l'Entreprise Lozanne 69380,
+    Tel 04 72 54 52 54,
+    Colonne1 ,
+    lat 45.8554512,
+    long 4.6883818
+  },
+  {
+    Nom Classic Rock Café,
+    Type Bar concert,
+    Note ,
+    Adresse 64, rue Boiron  Villefranche sur saône 69 400,
+    Tel 07 60 90 46 62,
+    Colonne1 ,
+    lat 45.99155,
+    long 4.7172625
+  }
+]
