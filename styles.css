@@ -28,7 +28,7 @@ border: none;
 
 
 #map {
-  width: 800px;
+  width: 900px;
   height: 600px;
   margin: 0;
   padding: 0;
@@ -58,11 +58,11 @@ border: none;
 
 /* Title Bar - Row 1, image and text*/
 #title {
-  background-color: #3d4a57;
+  background-color: #323333;
   color: white;
   font-size: 25px;
   padding: 14px;
-  text-align: right;
+  text-align: center;
 }
 
 #title_img {
@@ -85,7 +85,6 @@ border: none;
   text-align: left;
   visibility: hidden;
   position: absolute;
-  border: 1px solid grey;
   padding: 5px;
   font: 10px sans-serif;
   background: white;
@@ -118,11 +117,11 @@ input[name="options"] {
 }
 
 input[name="search_option"]:checked + label {
-    color: #57bcd2;
+    color: #57bcd2; /* Couleur en cas de sélectionne colonne haut */
 }
 
 input[name="options"]:checked + label {
-    color: #57bcd2;
+    color: #57bcd2; /* Couleur en cas de sélection colonne gauche */
 }
 
 #input{
@@ -131,13 +130,14 @@ input[name="options"]:checked + label {
 }
 
 /* Chart Title Tds */
-#list_title, #bar_title, #donut_title, #v_bar_title, #line_title {
-  background-color: white;
+#list_title, #bar_title, #donut_title, #v_bar_title, #line_title { /* Colonne de gauche */
+  background-color: #323333;
   border-color: grey;
   border: 2px;
 }
 
-#list_title, #bar_title, #donut_title, #v_bar_title, #line_title {
+#list_title, #bar_title, #donut_title, #v_bar_title, #line_title { /* Titre colonne gauche */
+  color: white;
   text-align: center;
   font-weight: 500;
   font-size: 16px;
