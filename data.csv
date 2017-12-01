@@ -11,7 +11,7 @@ Ninkasi Gerland,Bar à Bière,2,"267, Rue Marcel Mérieux Lyon 69007",69007,45.7
 Ninkasi Gratte-Ciel,Bar,2,"6, av. Henri Barbusse Villeurbanne 69100",69100,45.769,4.8792,€€,"3,5",3,Oui,Oui,Oui,Non,Pas testé
 Ninkasi Sans Souci,Bar à Bière,3,"26, crs A. Thomas Lyon 69008",69008,45.748,4.8628,€€,"3,5",3,Oui,Oui,Oui,Oui,Pas testé
 Bistrot de la Botte,Bar gourmand,5,"8, rue Monseigneur Lavarenne Lyon 69005",69005,45.759,4.8269,€€,"3,5","3,5",Oui,Non,Oui,Non,Validé
-Le Lounge,Bar lounge,,Quai Charles de Gaulle Lyon 69006,69006,45.777,4.8438,€€€,,3,Oui,Non,Oui,Non,Pas testé
+Le Lounge,Bar Lounge,,Quai Charles de Gaulle Lyon 69006,69006,45.777,4.8438,€€€,,3,Oui,Non,Oui,Non,Pas testé
 Wallace Snug,Pub,4,"2, rue Thomassin Lyon 69002",69002,45.762,4.8327,€€,4,4,Oui,Oui,Oui,Oui,Pas testé
 AFK Bar,Bar gaming,4,"52, rue de l'Université Lyon 69007",69007,45.752,4.8378,,,5,Oui,Oui,Oui,Oui,Pas testé
 Les Platanes,Bar,"4,5",Place du Lieutenant Morel Lyon 69001,69001,45.772,4.8263,€€,"3,5",4,Oui,Non,Oui,Oui,Pas testé
@@ -19,11 +19,11 @@ Au fût et à mesure,Bar,"4,5",18 boulevard des brotteaux Lyon 69006,69006,45.76
 Au Tooley's,Pub,"3,5","7, quai Fulchiron Lyon 69005",69005,45.759,4.827,€€,,"3,5",Oui,Oui,Oui,Oui,Pas testé
 Blogg,Bar à concert,"1,5","14, rue Crépet Lyon 69007",69007,45.738,4.8325,€€,,3,Oui,Non,Oui,Non,Pas testé
 Boston Tavern,Bar à Bière,"3,5","8, place des Terreaux Lyon 69001",69001,45.768,4.8331,€€,4,"3,5",Oui,Non,Oui,Oui,Pas testé
-Boston Trattoria,Café bar,"0,5","8 Place des Terreaux, 69001 Lyon",69001,45.768,4.8331,€€,,3,Oui,Oui,Oui,Oui,Pas testé
-Broc'Bar,Café bar,3,"20, rue Lanterne Lyon 69001",69001,45.766,4.8318,€€,4,4,Oui,Oui,Oui,Oui,Pas testé
-Buvette Saint Antoine,Café bar,3,2 Quai des Célestins Lyon 69002,69002,45.761,4.831,€€,3,"2,5",Oui,Non,Oui,Non,Pas testé
-Cactus Café,Café bar,"4,5",12 place St-Paul Lyon 69005,69005,45.766,4.8275,€,"4,5","3,5",Oui,Non,Oui,Non,Pas testé
-Café du Pond,Bar lounge,"1,5","11, place du Maréchal Lyautey Lyon 69006",69006,45.769,4.8411,€€,"2,5","2,5",Oui,Non,Non,Non,Pas testé
+Boston Trattoria,Café Bar,"0,5","8 Place des Terreaux, 69001 Lyon",69001,45.768,4.8331,€€,,3,Oui,Oui,Oui,Oui,Pas testé
+Broc'Bar,Café Bar,3,"20, rue Lanterne Lyon 69001",69001,45.766,4.8318,€€,4,4,Oui,Oui,Oui,Oui,Pas testé
+Buvette Saint Antoine,Café Bar,3,2 Quai des Célestins Lyon 69002,69002,45.761,4.831,€€,3,"2,5",Oui,Non,Oui,Non,Pas testé
+Cactus Café,Café Bar,"4,5",12 place St-Paul Lyon 69005,69005,45.766,4.8275,€,"4,5","3,5",Oui,Non,Oui,Non,Pas testé
+Café du Pond,Bar Lounge,"1,5","11, place du Maréchal Lyautey Lyon 69006",69006,45.769,4.8411,€€,"2,5","2,5",Oui,Non,Non,Non,Pas testé
 Dam's Pub,Pub Hollandais,4,"4, place Sathonay Lyon 69001",69001,45.769,4.83,€€,4,3,Oui,Oui,Oui,Oui,Pas testé
 Ed's Eat & Drinks,Pub,3,"5 Place Antonin Poncet, 69002 Lyon",69002,45.757,4.8349,€€,"3,5",3,Oui,Non,Oui,Oui,Pas testé
 Elephant & Castle,Pub,"4,5","16, quai de Bondy Lyon 69005",69005,45.766,4.8287,€€,,"3,5",Oui,Oui,Oui,Oui,Pas testé
@@ -34,28 +34,28 @@ Kelly's Irish Pub,Irish Pub,"3,5","12 Quai Romain Rolland, 69005 Lyon",69005,45.
 La Kolok,Concept Bar,"4,5","30, av. Berthelot Lyon 69007",69007,45.746,4.8376,€€,"4,5",4,Non,Oui,Non,Oui,Pas testé
 La Mouss'tache - Saint-Antoine,Restaurants,,"19, quai St-Antoine Lyon 69002",69002,45.763,4.8322,€€,"4,5",3,Oui,Oui,Oui,Non,Pas testé
 La Pêcherie,Bar,"3,5","1, rue de la Platière Lyon 69001",69001,45.765,4.8318,€€,3,"3,5",Oui,Non,Oui,Non,Pas testé
-La Pinte Douce,Café bar,4,"7, place Colbert Lyon 69001",69001,45.772,4.8343,€,,"4,5",Oui,Oui,Oui,Non,Pas testé
+La Pinte Douce,Café Bar,4,"7, place Colbert Lyon 69001",69001,45.772,4.8343,€,,"4,5",Oui,Oui,Oui,Non,Pas testé
 L'Actuel,Bar,,26 rue des Capucins Lyon 69001,69001,45.77,4.8356,,,,Non,Non,Non,Non,Pas testé
 L'Ange Di Vin,Bar à vin,4,"13, rue de la Monnaie Lyon 69002",69002,45.761,4.832,€€,"4,5",4,Oui,Oui,Oui,Non,Pas testé
 L'Antiquaire,Bar à cocktail,"4,5","20, rue H. Flandrin Lyon 69001",69001,45.768,4.8306,€€,"4,5","4,5",Oui,Non,Oui,Non,Pas testé
 Le 405,Bar à bière,"4,5","9, rue Constantine Lyon 69001",69001,45.767,4.832,€€,4,"3,5",Oui,Non,Oui,Oui,Pas testé
 Le Big White,Bar festif,4,"22, rue Lainerie Lyon 69005",69005,45.765,4.8281,€€,"4,5","3,5",Oui,Non,Non,Non,Pas testé
 À la Maison,Bar,5,"23, rue de l'Arbre Sec Lyon 69001",69001,45.767,4.837,€€,4,"3,5",Oui,Oui,Oui,Non,Pas testé
-Le Bistrouille,Café bar,"4,5","19, place St-Paul Lyon 69005",69005,45.766,4.8276,€€,4,4,Oui,Non,Oui,Non,Pas testé
+Le Bistrouille,Café Bar,"4,5","19, place St-Paul Lyon 69005",69005,45.766,4.8276,€€,4,4,Oui,Non,Oui,Non,Pas testé
 Le Café de la Cathédrale,Bar,"2,5","41, rue St Jean Lyon 69005",69005,45.761,4.8271,€€,4,"3,5",Oui,Non,Oui,Non,Pas testé
 Le Cap Opéra,Bar gay,"2,5","2, place L. Pradel Lyon 69001",69001,45.768,4.8373,€€,,"3,5",Oui,Non,Oui,Non,Pas testé
 Café Chanteclerc,Bar,"2,5","151, bd de la Croix-Rousse Lyon 69004",69004,45.775,4.8299,€€,3,3,Oui,Oui,Oui,Non,Pas testé
-Le Comptoir,Bar lounge,,17 place Carnot Lyon 69002,69002,45.75,4.8284,,,5,Non,Non,Non,Non,Pas testé
+Le Comptoir,Bar Lounge,,17 place Carnot Lyon 69002,69002,45.75,4.8284,,,5,Non,Non,Non,Non,Pas testé
 Le Farmer,Bar,2,"14, montée des Carmélites Lyon 69001",69001,45.771,4.828,€€,,4,Non,Non,Oui,Non,Pas testé
 Le Galopin,Restaurants,,"155, bd de la Croix-Rousse Lyon 69004",69004,45.774,4.8303,€,2,4,Oui,Oui,Oui,Oui,Pas testé
-Le L bar,Bar à cocktail,"4,5","19, rue du Garet Lyon 69001",69001,45.766,4.8369,€€,,4,Oui,Non,Oui,Oui,Pas testé
+Le L Bar,Bar à cocktail,"4,5","19, rue du Garet Lyon 69001",69001,45.766,4.8369,€€,,4,Oui,Non,Oui,Oui,Pas testé
 Café Leffe,Bar,1,"1, Place des Terreaux Lyon 69001",69001,45.768,4.834,€€€,"2,5","2,5",Oui,Oui,Oui,Oui,Pas testé
 Le moulin jolie,Bar,5,1 rue du puits Gaillot Lyon 69001,69001,45.768,4.8344,,,,Oui,Non,Oui,Non,Pas testé
 Le Pharaon,Bar,"4,5","18, rue Romarin Lyon 69001",69001,45.768,4.8342,€,,,Non,Non,Oui,Non,Pas testé
 Le Pré-Soir,Bar à vin,,"9, rue du Jardin des Plantes Lyon 69001",69001,45.77,4.8305,,"3,5",,Oui,Non,Oui,Non,Pas testé
 Café des Capucins,Bar à concert,4,"5, place des Capucins Lyon 69001",69001,45.769,4.8326,€€,,4,Oui,Non,Non,Non,Pas testé
 L'Etoile Opéra,Bar,3,"26, rue de l'Arbre Sec Lyon 69001",69001,45.767,4.8364,€€,"4,5","3,5",Oui,Oui,Non,Non,Pas testé
-L'Horloge,BAR,,"34 bis, bd des Brotteaux Lyon 69006",69006,45.768,4.857,€€,3,3,Oui,Oui,Oui,Non,Pas testé
+L'Horloge,Bar,,"34 bis, bd des Brotteaux Lyon 69006",69006,45.768,4.857,€€,3,3,Oui,Oui,Oui,Non,Pas testé
 Livestation DIY,Bar à tapas,"4,5","14, rue de Bonald Lyon 69007",69007,45.753,4.8399,€€,"4,5",4,Oui,Oui,Oui,Oui,Pas testé
 L'Oriental Saphir,Bar,"4,5","13, rue Terme Lyon 69001",69001,45.769,4.8317,,,,Non,Non,Oui,Non,Pas testé
 L'Orienthé,Bar Lounge,2,"3, rue des Capucins Lyon 69001",69001,45.769,4.8326,€€,3,"3,5",Non,Non,Oui,Non,Pas testé
@@ -63,7 +63,7 @@ Mama Shelter (Bar),Bar à cocktail,"3,5","13, rue Domer Lyon 69017",69017,45.747
 Melting Lounge,Bar,,19 rue Sergent Blandan Lyon 69001,69001,45.769,4.83,,,,Non,Non,Oui,Non,Pas testé
 ModernArt Café,Bar,3,"65, bd de la Croix-Rousse Lyon 69004",69004,45.774,4.8226,€€,,"3,5",Oui,Oui,Oui,Non,Pas testé
 Ninkasi Croix-Rousse,Bar à bière,3,"159, boulevard de la Croix-Rousse Lyon 69004",69004,45.775,4.8312,€€,"3,5",3,Oui,Oui,Oui,Non,Pas testé
-Ninkasi Guillotière,Café bar,2,"2, place A. Jutard Lyon 69003",69003,45.756,4.8411,€€,3,3,Oui,Oui,Oui,Non,Pas testé
+Ninkasi Guillotière,Café Bar,2,"2, place A. Jutard Lyon 69003",69003,45.756,4.8411,€€,3,3,Oui,Oui,Oui,Non,Pas testé
 O' Quai Wine,Bar à vin,5,"8, Quai des Célestins Lyon 69002",69002,45.76,4.8309,,,"3,5",Oui,Oui,Oui,Non,Pas testé
 OGills Pub,Pub Lyon,5,"4, rue du Jardin des Plantes Lyon 69001",69001,45.77,4.8297,€,,3,Oui,Oui,Oui,Non,Pas testé
 Par Saint Georges,Pub,,8 rue Saint Georges Lyon 69005,69005,45.759,4.8255,€€,,,Non,Oui,Oui,Non,Pas testé
@@ -113,27 +113,27 @@ Le Terrier du Lapin Blanc,Bar à tapas,"4,5","37, rue I. Colomès Lyon 69001",69
 Drôle de Zèbre,Bar gay,5,"6, rue de Cuire Lyon 69004",69004,45.775,4.831,,,4,Oui,Oui,Oui,Oui,Pas testé
 Fleming's,Pub,4,"2, rue de la Loge Lyon 69005",69005,45.765,4.8279,€€,4,4,Oui,Non,Oui,Oui,Pas testé
 Taverne · Gutenberg,Bar concept,,"5, rue de l'Épée Lyon 69003",69003,45.757,4.8434,€,,5,Non,Non,Oui,Non,Pas testé
-L'Aventure,Café bar,,"48, rue P. Corneille Lyon 69006",69006,45.765,4.8435,,"4,5",5,Non,Non,Oui,Non,Pas testé
+L'Aventure,Café Bar,,"48, rue P. Corneille Lyon 69006",69006,45.765,4.8435,,"4,5",5,Non,Non,Oui,Non,Pas testé
 Le Renaissance,Bar,,29 Rue Chevreul Lyon 69007,69007,45.749,4.8386,,,"3,5",Non,Non,Non,Non,Pas testé
 Arcaneum,Bar gaming,5,49 Rue des Antonins Villeurbanne 69100,69100,45.779,4.8793,,,5,Oui,Oui,Oui,Non,Pas testé
 Bellona (Bar),Bar,,"100, quai Perrache Lyon 69002",69002,45.746,4.8285,€€,"3,5","2,5",Oui,Oui,Oui,Non,Pas testé
 Daddy Poule,Restaurants,,"173 Avenue Charles de Gaulle, 69160 Tassin-la-Demi-Lune",69160,45.758,4.7759,,3,,Oui,Oui,Oui,Non,Pas testé
 La Coulée Douce,Bar à vin,"4,5","4, rue de la Fronde Lyon 69005",69005,45.764,4.8279,,,,Non,Non,Oui,Non,Pas testé
 Brasserie l’Est,Bar,"3,5","14, place Jules Ferry Lyon 69006",69006,45.768,4.8597,€€€,"3,5","3,5",Oui,Oui,Oui,Non,Pas testé
-Le Gambetta,Café bar,"1,5","3, crs Gambetta Lyon 69003",69003,45.756,4.8416,€€,"4,5","3,5",Oui,Non,Oui,Non,Pas testé
+Le Gambetta,Café Bar,"1,5","3, crs Gambetta Lyon 69003",69003,45.756,4.8416,€€,"4,5","3,5",Oui,Non,Oui,Non,Pas testé
 L'Orangerie,Bar et apéritif à la française,,"4, rue du jardin des Plantes Lyon 69001",69001,45.77,4.8297,€€,,,Non,Non,Oui,Non,Pas testé
 Suelta,Mojito Bar,,"45, quai C. de Gaulle Lyon 69006",69006,45.785,4.8555,€€,3,"2,5",Oui,Oui,Oui,Non,Pas testé
 Bull Café,Bar,,"25, place de la Croix-Rousse Lyon 69004",69004,45.775,4.8327,€€,,"3,5",Oui,Non,Oui,Non,Pas testé
-Betty’s Bar,Café bar,"4,5","4, rue Mourguet Lyon 69005",69005,45.76,4.8261,€€,"4,5","4,5",Oui,Oui,Oui,Non,Pas testé
+Betty’s Bar,Café Bar,"4,5","4, rue Mourguet Lyon 69005",69005,45.76,4.8261,€€,"4,5","4,5",Oui,Oui,Oui,Non,Pas testé
 Kaffee Berlin,Bar à Bière,"3,5","26 Cours Albert Thomas, 69008 Lyon",69008,45.748,4.8628,€€,4,"3,5",Oui,Non,Oui,Oui,Pas testé
 Le Phosphore,Bar à vin,"4,5",Allée Site de l'Antiquaille - Montée du chemin neuf Lyon 69005,69005,45.759,4.8232,€€€,4,"3,5",Oui,Oui,Non,Non,Pas testé
 Le Sirius,Bar dansant,2,"4, quai V. Augagneur Lyon 69003",69003,45.762,4.8414,€€,3,"3,5",Oui,Oui,Oui,Non,Pas testé
 La Grotte Saint Loup,Bar,,"52, quai Clemenceau Caluire-et-Cuire 69300",69300,45.762,4.8414,€€,3,"3,5",Oui,Non,Oui,Non,Pas testé
 L'Envers des pentes,Bar à cocktail,"4,5","112, montée de la grande Côte Lyon 69001",69001,45.77,4.8316,€€,,4,Oui,Non,Oui,Non,Pas testé
 Trokson,Bar à concert,"3,5","110, montée de la grande Côte Lyon 69001",69001,45.77,4.8315,€,,4,Oui,Oui,Oui,Oui,Pas testé
-Windy Lounge,Bar lounge,5,"5, quai A. Riboud Lyon 69002",69002,45.743,4.8167,€€,"3,5",2,Oui,Oui,Oui,Oui,Pas testé
-Brasserie des écoles,Café bar,"1,5","27, place de la Croix-Rousse Lyon 69004",69004,45.775,4.8326,€€,"3,5",3,Oui,Non,Oui,Non,Pas testé
-18M2,Cosy bar,5,"18, rue de la Monnaie Lyon 69002",69002,45.761,4.8319,€,"4,5",,Oui,Oui,Non,Non,Pas testé
+Windy Lounge,Bar Lounge,5,"5, quai A. Riboud Lyon 69002",69002,45.743,4.8167,€€,"3,5",2,Oui,Oui,Oui,Oui,Pas testé
+Brasserie des écoles,Café Bar,"1,5","27, place de la Croix-Rousse Lyon 69004",69004,45.775,4.8326,€€,"3,5",3,Oui,Non,Oui,Non,Pas testé
+18M2,Cosy Bar,5,"18, rue de la Monnaie Lyon 69002",69002,45.761,4.8319,€,"4,5",,Oui,Oui,Non,Non,Pas testé
 1Solites Caffe,Bar festif,,32 rue du Palais Grillet Lyon 69002,69002,45.762,4.8353,,4,"4,5",Oui,Oui,Non,Non,Pas testé
 Alambik Café,Bar,,79 Grande rue de la Croix-Rousse Lyon 69004,69004,45.78,4.8324,,4,5,Oui,Non,Non,Non,Pas testé
 Aloha,Bar festif,"4,5","4, rue Pizay Lyon 69001",69001,45.767,4.8346,€€,,"3,5",Oui,Oui,Non,Oui,Pas testé
@@ -142,7 +142,7 @@ Au Comptoir d'Emile,Restaurants,,"61, cours Emile Zola Villeurbanne 69100",69100
 Au coude à coude,Bar,5,120 rue Bugeaud Lyon 69006,69006,45.767,4.8552,€€,"4,5",5,Oui,Non,Non,Non,Pas testé
 Autour d'un verre,Bar à vin,4,"20, rue Longue Lyon 69001",69001,45.765,4.8337,€€,"3,5",4,Oui,Oui,Non,Non,Validé
 Ayers Rock,Bar Festif,"2,5","4, rue Désirée Lyon 69001",69001,45.768,4.8349,€€,3,"3,5",Non,Non,Non,Oui,Pas testé
-B! Bistrot Carnot,Café bar,3,"3, place Carnot Lyon 69002",69002,45.752,4.828,€€,4,3,Oui,Oui,Non,Non,Pas testé
+B! Bistrot Carnot,Café Bar,3,"3, place Carnot Lyon 69002",69002,45.752,4.828,€€,4,3,Oui,Oui,Non,Non,Pas testé
 Bar Berliner,Bar berlinois,,"20, rue Saint-Georges Lyon 69005",69005,45.759,4.8254,€€,"4,5","4,5",Oui,Non,Non,Oui,Pas testé
 Bar du BDE,Bar,"4,5","23 Avenue Guy de Collongue, 69130 Écully",69130,45.786,4.764,,,,Non,Non,Non,Non,Pas testé
 Barberousse,Bar à Shooters,"3,5","18, rue Terraille Lyon 69001",69001,45.769,4.8357,€€,4,"3,5",Non,Non,Non,Oui,Pas testé
@@ -156,10 +156,10 @@ Bonsoir Clara,Bar à vin,4,"7, rue du Chariot d'Or Lyon 69004",69004,45.778,4.83
 Brazier Wine Bar,Bar à vin,"3,5","14, rue Royale Lyon 69001",69001,45.771,4.8372,€€€,"4,5","3,5",Non,Oui,Non,Non,Pas testé
 Brooklyn Bar,Bar à vin,5,"14, rue de la Monnaie Lyon 69002",69002,45.761,4.8321,€€,4,4,Oui,Non,Oui,Oui,Pas testé
 Cabana Café - latino club,Bar dansant,4,"30, rue de l'Annonciade Lyon 69001",69001,45.77,4.829,€,2,3,Non,Oui,Non,Non,Pas testé
-Café Bellecour,Café bar,"1,5","33, place Bellecour Lyon 69002",69002,45.758,4.8301,€€,"3,5","3,5",Oui,Non,Non,Non,Pas testé
-Café Chenavard,Café bar,"3,5","20 Rue Paul Chenavard, 69001 Lyon",69001,45.766,4.8328,€€,4,"3,5",Oui,Oui,Non,Non,Pas testé
+Café Bellecour,Café Bar,"1,5","33, place Bellecour Lyon 69002",69002,45.758,4.8301,€€,"3,5","3,5",Oui,Non,Non,Non,Pas testé
+Café Chenavard,Café Bar,"3,5","20 Rue Paul Chenavard, 69001 Lyon",69001,45.766,4.8328,€€,4,"3,5",Oui,Oui,Non,Non,Pas testé
 Café de la place,Bar,4,5 Place Sathonay Lyon 69001,69001,45.769,4.8307,€€,"4,5","3,5",Oui,Non,Non,Non,Pas testé
-Café des Jacobins,Café bar,"1,5","3, place des Jacobins Lyon 69002",69002,45.76,4.8332,€€,3,"2,5",Oui,Non,Non,Non,Pas testé
+Café des Jacobins,Café Bar,"1,5","3, place des Jacobins Lyon 69002",69002,45.76,4.8332,€€,3,"2,5",Oui,Non,Non,Non,Pas testé
 Café Galerie,Bar festif,"2,5","19, rue Burdeau Lyon 69001",69001,45.77,4.8332,€,,"3,5",Non,Oui,Non,Oui,Pas testé
 Café Léone,Bar,3,"8, rue de la Monnaie Lyon 69002",69002,45.762,4.8323,€€,4,3,Oui,Oui,Non,Non,Pas testé
 Café Sévilla,Bar dansant,"4,5","7, rue Sainte-Catherine Lyon 69001",69001,45.768,4.8328,€€,,3,Non,Non,Oui,Oui,Pas testé
@@ -193,7 +193,7 @@ La Cour des Grands,Bar à tapas,3,"60, montée de Choulans Lyon 69005",69005,45.
 La Faute aux Ours,Bar,4,"4 Grande Rue de la Guillotière, 69007 Lyon",69007,45.755,4.8432,€€,4,4,Oui,Oui,Non,Oui,Pas testé
 La Fiesta Loca,Bar,4,"110 , Quai Pierre Scize Lyon 69005",69005,45.767,4.8198,€€,,1,Non,Non,Non,Non,Pas testé
 La fonderie,Bar à bière,"4,5","19 , Quai Romain Rolland Lyon 69005",69005,45.763,4.8288,€€,5,5,Non,Non,Non,Oui,Pas testé
-La Fourmilière,Café bar,4,"15 Rue Salomon Reinach, 69007 Lyon",69007,45.752,4.8396,€,4,4,Oui,Oui,Non,Non,Pas testé
+La Fourmilière,Café Bar,4,"15 Rue Salomon Reinach, 69007 Lyon",69007,45.752,4.8396,€,4,4,Oui,Oui,Non,Non,Pas testé
 La Kolok (Pentes de la croix-rousse),Self-Service Beer,,12 rue I.Colomes Lyon 69001,69001,45.771,4.8331,€€,5,"4,5",Oui,Non,Non,Oui,Pas testé
 La Loggia,Bar à vin,5,"21, rue A. Comte Lyon 69002",69002,45.754,4.8311,€€,"4,5",4,Oui,Non,Non,Non,Pas testé
 La Luz,Bar à vin,"4,5","6, pte rue des Feuillants Lyon 69001",69001,45.769,4.8368,€€,3,"3,5",Non,Non,Non,Non,Pas testé
@@ -213,15 +213,15 @@ L'Apostrophe,Bar,3,6 rue O. Mey Lyon 69005,69005,45.766,4.8279,€,,4,Oui,Non,No
 Le 20,Bar à vin,"3,5","20, rue Bellecordière Lyon 69002",69002,45.758,4.8356,€€€,5,"2,5",Oui,Non,Non,Non,Pas testé
 Le 27 Madeleine,Bar,,"27, rue de la Madeleine Lyon 69007",69007,45.748,4.848,€€,"4,5",,Oui,Oui,Non,Non,Pas testé
 Le 42,Bar dansant,"4,5","42, quai P. Scize Lyon 69009",69009,45.766,4.8185,€€€€,5,"3,5",Oui,Oui,Non,Oui,Pas testé
-Le Bar de la Colline 'Chez Alberta',Café bar,,"61, rue Trion Lyon 69005",69005,45.756,4.8173,,,,Non,Non,Non,Non,Pas testé
+Le Bar de la Colline 'Chez Alberta',Café Bar,,"61, rue Trion Lyon 69005",69005,45.756,4.8173,,,,Non,Non,Non,Non,Pas testé
 Le Baràgones,Bar à cocktail,5,"5, place St-Paul Lyon 69005",69005,45.766,4.8277,€€,"4,5","3,5",Oui,Oui,Non,Non,Pas testé
 Le Bieristan,Bar à bière,4,"4, rue P. LafargueVilleurbanne 69100",69100,45.768,4.8836,€€,"4,5","4,5",Oui,Oui,Non,Non,Pas testé
 Le Bistrot des Maquignons (Bar),Bar,"4,5",113 grande rue de la Guillotière Lyon 69007,69007,45.751,4.8484,€€,4,4,Oui,Oui,Non,Non,Pas testé
-Le Bistrot fait sa Broc',Café bar,"3,5","1-3, rue Dumenge Lyon 69004",69004,45.777,4.836,€€,"4,5",4,Oui,Oui,Non,Non,Pas testé
+Le Bistrot fait sa Broc',Café Bar,"3,5","1-3, rue Dumenge Lyon 69004",69004,45.777,4.836,€€,"4,5",4,Oui,Oui,Non,Non,Pas testé
 Le Boudoir,Bar à cocktail,2,"13, place J. Ferry Lyon 69006",69006,45.767,4.8598,€€€,3,3,Oui,Non,Non,Non,Pas testé
 Le Café des Antiquaires,Bar,,"40, rue A. Comte Lyon 69002",69002,45.754,4.8304,€,4,4,Oui,Non,Non,Non,Pas testé
 Le Café du 6e,Bar,,"63, cour Vitton Lyon 69006",69006,45.77,4.8561,€€€,,4,Oui,Non,Non,Non,Pas testé
-Le Café Pimpon,Café bar,5,"16, rue de la Madeleine Lyon 69007",69007,45.75,4.8478,€€,"4,5","4,5",Non,Non,Non,Non,Pas testé
+Le Café Pimpon,Café Bar,5,"16, rue de la Madeleine Lyon 69007",69007,45.75,4.8478,€€,"4,5","4,5",Non,Non,Non,Non,Pas testé
 le Cap 6,Bar,"0,5","31 bis, Rue du Président Edouard Herriot Lyon 69002",69002,45.765,4.8346,€,,2,Oui,Non,Non,Non,Pas testé
 Le Comptoir de Doug,Bar,,"13, rue Général Plessier Lyon 69002",69002,45.751,4.8263,€€,5,"4,5",Oui,Non,Non,Non,Pas testé
 Le comptoir des artistes,Cuisine du marché,4,"98, rue Mazenod Lyon 69003",69003,45.759,4.8487,€€,"4,5",4,Oui,Oui,Oui,Non,Pas testé
@@ -236,7 +236,7 @@ Le It Bar,Bar gay,5,20 bis montée Saint Sébastien Lyon 69001,69001,45.771,4.83
 Le Little Cafe,Café comptoir,"3,5","6, rue Bellecordière Lyon 69002",69002,45.759,4.8359,€,,5,Oui,Oui,Non,Non,Pas testé
 Le Logo,Bar,4,"1, place Croix Paquet Lyon 69001",69001,45.77,4.8359,,"4,5",4,Non,Oui,Oui,Oui,Pas testé
 Le Métronome,Bar,,"16, Bd. des Brotteaux Lyon 69006",69006,45.769,4.8569,€€,"4,5",4,Oui,Oui,Non,Non,Pas testé
-Le Monopol,Café bar,,5 Rue de la Barre Lyon 69002,69002,45.758,4.8352,€€,4,"3,5",Oui,Non,Non,Non,Pas testé
+Le Monopol,Café Bar,,5 Rue de la Barre Lyon 69002,69002,45.758,4.8352,€€,4,"3,5",Oui,Non,Non,Non,Pas testé
 Le Palais de la Bière,Bar à Bière,4,"1, rue Terme Lyon 69001",69001,45.77,4.8313,€€,4,4,Non,Non,Non,Non,Pas testé
 Le Pas Sage,Bar à Tapas,,"20, Quai Arloing Lyon 69009",69009,45.772,4.8107,,"4,5",4,Oui,Non,Non,Non,Pas testé
 Le passage,Bar à cocktail,,"8, rue du Plâtre Lyon 69001",69001,45.766,4.8339,€€€,4,4,Oui,Non,Non,Non,Pas testé
@@ -269,7 +269,7 @@ Nahual,Bar,,"20, rue Terraille Lyon 69001",69001,45.769,4.8358,,,,Non,Non,Non,No
 Nakamal,Bar - Restaurant,"4,5","36, av. J. Masset Lyon 69009",69009,45.768,4.8009,€€,4,"3,5",Oui,Oui,Non,Non,Pas testé
 Ninkasi Cordeliers,Bar à Bière,3,"22, rue Ferrandière Lyon 69002",69002,45.762,4.835,€€,3,"3,5",Non,Oui,Oui,Non,Pas testé
 Ninkasi Hotel de Ville,Bar,3,"27, rue de l'Arbre Sec Lyon 69001",69001,45.767,4.8374,€€,"3,5",3,Non,Non,Non,Non,Pas testé
-Péniche Loupika,Café bar,"4,5","47, quai Rambaud Lyon 69002",69002,45.738,4.8151,€€,4,4,Oui,Oui,Non,Non,Pas testé
+Péniche Loupika,Café Bar,"4,5","47, quai Rambaud Lyon 69002",69002,45.738,4.8151,€€,4,4,Oui,Oui,Non,Non,Pas testé
 Pick Me Up,Bar à cocktail,4,"13, rue Lanterne Lyon 69001",69001,45.767,4.8319,€€,"4,5",4,Non,Oui,Non,Non,Pas testé
 Café Platypus,Bar,5,"32, cours Charlemagne Lyon 69002",69002,45.746,4.8236,,,5,Oui,Oui,Non,Oui,Pas testé
 Plein Sud,Bar,,"3, rue Tupin Lyon 69002",69002,45.763,4.833,€€,"3,5",3,Oui,Oui,Non,Non,Pas testé
@@ -282,7 +282,7 @@ Since the Cavern,Pub,4,"11, rue des Trois Maries Lyon 69005",69005,45.763,4.8284
 6e Continent,Bar à concert,,"51, rue Saint-Michel Lyon 69007",69007,45.751,4.847,€,"3,5","3,5",Non,Non,Non,Non,Pas testé
 Sky Bar,Bar,5,"26, rue Hippolyte Flandrin Lyon 69001",69001,45.768,4.8308,€€,4,"3,5",Oui,Oui,Non,Non,Pas testé
 SODA Soul and Spirits,Bar à cocktail,"4,5","7, rue de la Martinière Lyon 69001",69001,45.768,4.829,€€,,4,Non,Non,Non,Non,Pas testé
-Sofffa,"Café bar, Co-working",5,"17, rue Ste-Catherine Lyon 69001",69001,45.768,4.8339,€,"4,5","4,5",Non,Non,Non,Non,Pas testé
+Sofffa,"Café Bar, Co-working",5,"17, rue Ste-Catherine Lyon 69001",69001,45.768,4.8339,€,"4,5","4,5",Non,Non,Non,Non,Pas testé
 Table et Vins d'Ainay,Bar à vin,,3 rue des remparts d'Ainay Lyon 69002,69002,45.754,4.8281,,5,"3,5",Oui,Oui,Non,Non,Pas testé
 The Daughter Wine Bar,Bar à vin,5,"21, quai de Bondy Lyon 69005",69005,45.767,4.8282,€€,"4,5",4,Oui,Non,Non,Oui,Pas testé
 The Happy Times,Bar,"3,5","3, rue G. Verdi Lyon 69001",69001,45.767,4.8366,€€,4,"3,5",Oui,Oui,Oui,Oui,Pas testé
@@ -290,7 +290,7 @@ V.Y.U (Voyou),Spot à Voyous,5,"13bis, place J. Ferry Lyon 69006",69006,45.767,4
 Vercoquin,Bar à vin,"4,5","33, rue de la Thibaudière Lyon 69007",69007,45.75,4.8455,€€,,4,Oui,Non,Oui,Non,Pas testé
 Via Barcatta,Bar à vin,5,"38, rue Tête d'or Lyon 69006",69006,45.77,4.8522,€€€,5,4,Oui,Oui,Non,Non,Pas testé
 Victoire et Thomas (Bar),Bar à vin,,"27, rue de l'Arbre sec Lyon 69001",69001,45.767,4.8374,€€€,"4,5","3,5",Oui,Oui,Oui,Non,Pas testé
-Victoria Hall - Lounge bar,Bar à vin,"4,5","33, rue du Repos Lyon 69007",69007,45.746,4.8505,€€€€,"4,5","3,5",Oui,Oui,Non,Non,Pas testé
+Victoria Hall - Lounge Bar,Bar à vin,"4,5","33, rue du Repos Lyon 69007",69007,45.746,4.8505,€€€€,"4,5","3,5",Oui,Oui,Non,Non,Pas testé
 Waina,Bar à vin,4,"51, rue Chevreul Lyon 69007",69007,45.749,4.8403,€€,"4,5",4,Oui,Oui,Non,Non,Pas testé
 Wee-An,Bar,"3,5","7, Rue de la Part Dieu Lyon 69003",69003,45.759,4.8433,€€€,"4,5",4,Non,Non,Non,Non,Pas testé
 Wild Krona,Pub Scandinave,"4,5","61, rue Masséna Lyon 69006",69006,45.768,4.8545,€,,"3,5",Oui,Oui,Non,Oui,Pas testé

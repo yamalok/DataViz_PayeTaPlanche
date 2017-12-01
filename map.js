@@ -18,7 +18,7 @@ d3.csv("data.csv", function(error, data) {
     //dynamically draws the list_radio checkboxes
     debugger;
     //1. Set the list title and sort the options_list
-    document.getElementById('list_title').innerHTML = search_opt.toUpperCase() + " <i>(click to filter)</i>";
+    document.getElementById('list_title').innerHTML = search_opt.toUpperCase() + " <i>(Cliquez pour filtrer)</i>";
     options_list.sort()
 
     //2. get distinct values of search_opt from data
