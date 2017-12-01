@@ -204,7 +204,7 @@ d3.csv("data.csv", function(error, data) {
             .on("mouseover", function(d){
               //sets tooltip.  t_text = content in html
               debugger;
-              t_text = "Nom: " + d.nom +"<br>Adresse: " + d.adresse +"<br>Type: " + d.type +"<br>Adresse: " + d.adresse +"<br>Note Yelp: " + d.noteyelp +"<br>Prix Yelp: " + d.prixyelp
+              t_text = "Nom: " + d.nom +"<br>Adresse: " + d.adresse +"<br>Type: " + d.type +"<br>Terrasse: " + d.terrasse +"<br>Note Yelp: " + d.noteyelp +"<br>Prix Yelp: " + d.prixyelp
               tooltip.html(t_text)
               return tooltip.style("visibility", "visible");
             })
