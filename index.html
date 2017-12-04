@@ -1,50 +1,96 @@
 <html>
 <head>
-<!--Index file with base table format + links to css and js files-->
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<link rel="stylesheet" href="styles.css">
-<script src="map.js"></script>
+    <meta charset="UTF-8">
+    <!--Index file with base table format + links to css and js files-->
+    <script src="https://use.fontawesome.com/1f32ea24a2.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <script src="map.js"></script>
 </head>
 <body>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtijSawTOdoLHBiMO-gGfdGCx2QRUwT3s">  </script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtijSawTOdoLHBiMO-gGfdGCx2QRUwT3s"></script>
 <table>
-<!--Row 1 - title image and colour key-->
-<!--Row 2 - search option radio buttons (buttons hidden, labels instead)-->
-<tr>
-  <td colspan='2' id='title'>
-    <input type="radio" id='type'  name="search_option" value="type" checked="checked"><label for="type"> Type de Bar </label>&nbsp;&nbsp;
-    <input type="radio" id='arrond'  name="search_option" value="arrond"><label for="arrond"> Code Postal </label>&nbsp;&nbsp;
-    <input type="radio" id='prixyelp' name="search_option" value="prixyelp"><label for="prixyelp"> Prix Yelp </label>&nbsp;&nbsp;
-    <input type="radio" id='noteyelp'  name="search_option" value="noteyelp"><label for="noteyelp"> Note Yelp </label>&nbsp;&nbsp;
-    <input type="radio" id='valide'  name="search_option" value="valide"><label for="valide"> Test Paye Ta Planche </label>&nbsp;&nbsp;
-  </td>
+    <!--Row 1 - title image and colour key-->
+    <!--Row 2 - search option radio buttons (buttons hidden, labels instead)-->
+    <tr>
+        <td colspan='2' id='title'>
+            <input type="radio" id='type' name="search_option" value="type" checked="checked"><label for="type"> Type de
+            Bar </label>&nbsp;&nbsp;
+            <input type="radio" id='arrond' name="search_option" value="arrond"><label for="arrond"> Code
+            Postal </label>&nbsp;&nbsp;
+            <input type="radio" id='prixyelp' name="search_option" value="prixyelp"><label for="prixyelp"> Prix
+            Yelp </label>&nbsp;&nbsp;
+            <input type="radio" id='noteyelp' name="search_option" value="noteyelp"><label for="noteyelp"> Note
+            Yelp </label>&nbsp;&nbsp;
+            <input type="radio" id='valide' name="search_option" value="valide"><label for="valide"> Test Paye Ta
+            Planche </label>&nbsp;&nbsp;
+            <button type="button" class="fa fa-info-circle" data-toggle="modal" data-target="#commentaire"
+                    aria-hidden="true"></button>
+        </td>
 
 
-<!--Row 3 - a break so there is a space in between the radio and the charts-->
-<tr>
-  <td colspan='3'></td>
-</tr>
-<!--Row 4 - charts - 4 columns, charts in individual  tables -->
-<tr>
-  <!--list_title - dynamically created checkbox - see effective.js -->
-  <td class='chart_td'>
-    <table class='chart_table'>
-      <tr><td id='list_title'>LIEUX</td></tr>
-      <tr><td id='list_radio'></td><tr>
-    </table>
-  </td>
-  <!--map td and title -->
-  <td class='chart_td'>
-    <table class='chart_table'>
-      <tr><td id='map_title'>LIEUX</td></tr>
-      <tr><td><div id="map"></div>
-</td><tr>
-    </table>
-  </td>
+        <!--Row 3 - a break so there is a space in between the radio and the charts-->
+    <tr>
+        <td colspan='3'></td>
+    </tr>
+    <!--Row 4 - charts - 4 columns, charts in individual  tables -->
+    <tr>
+        <!--list_title - dynamically created checkbox - see effective.js -->
+        <td class='chart_td'>
+            <table class='chart_table'>
+                <tr>
+                    <td id='list_title'>LIEUX</td>
+                </tr>
+                <tr>
+                    <td id='list_radio'></td>
+                <tr>
+            </table>
+        </td>
+        <!--map td and title -->
+        <td class='chart_td'>
+            <table class='chart_table'>
+                <tr>
+                    <td id='map_title'>LIEUX</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div id="map"></div>
+                    </td>
+                <tr>
+            </table>
+        </td>
 
-</tr>
+    </tr>
 </table>
-
+<!-- Modal -->
+<div class="modal fade" id="commentaire" tabindex="-1" role="dialog" aria-labelledby="commentaireLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="commentaireLabel">Informations</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Cette carte interactive vous permet de trouver facilement et rapidement les meilleurs bars et bistrots
+                de Lyon. Elle vous permet de les trier par Type, Code Postal, Note, Prix, mais aussi d’avoir les avis de
+                Paye Ta Planche, qui seront de plus en plus nombreux avec le temps.
+                Pour utiliser cette carte interactive, choisissez un critère de sélection dans la barre supérieure. Vous
+                pourrez ensuite filtrer les bars grâce à la colonne de gauche.
+                Chaque bar dispose d’informations détaillées. Passez votre souris sur le bar pour les afficher.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+            </div>
+        </div>
+    </div>
+</div>
 </body>
 </html>
