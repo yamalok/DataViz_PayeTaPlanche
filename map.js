@@ -18,7 +18,6 @@ d3.csv(URL, function (error, data) {
 
     function draw_list(search_opt, options_list, all_options) {
         //dynamically draws the list_radio checkboxes
-        debugger;
         //1. Set the list title and sort the options_list
         document.getElementById('list_title').innerHTML = search_opt.toUpperCase() + " <i>(Cliquez pour filtrer)</i>";
         options_list.sort();
@@ -158,7 +157,7 @@ d3.csv(URL, function (error, data) {
         var map = new google.maps.Map(d3.select("#map").node(), {
             zoom: 1,
             center: new google.maps.LatLng(-25.363, 131.044),
-            mapTypeId: google.maps.MapTypeId.TERRAIN,
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
             styles: [
                 {featureType: 'poi', stylers: [{ visibility: "off" }]}]
         });
@@ -200,7 +199,7 @@ d3.csv(URL, function (error, data) {
                     .attr("cy", padding + 5)
                     .on("mouseover", function (d) {
                         //sets tooltip.  t_text = content in html
-                        debugger;
+                        console.log("Over");
                         t_text = "Nom: " + d.nom + "<br>Adresse: " + d.adresse + "<br>Type: " + d.type + "<br>Terrasse: " + d.terrasse + "<br>Note Yelp: " + d.noteyelp + "<br>Prix Yelp: " + d.prixyelp
                         tooltip.html(t_text);
                         return tooltip.style("visibility", "visible");
