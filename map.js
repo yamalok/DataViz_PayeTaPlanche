@@ -154,7 +154,7 @@ d3.csv(URL, function (error, data) {
         d3.selectAll('#map')
             .attr("width", width - 200);
 
-        // Create the Google Mapâ€¦
+        // Create the Google Map w/o poi
         var map = new google.maps.Map(d3.select("#map").node(), {
             zoom: 1,
             center: new google.maps.LatLng(-25.363, 131.044),
