@@ -7,7 +7,7 @@ d3.csv(URL, function (error, data) {
     //2. define reset and draw functions
 
     //default to location - declare variables, reset_data and draw charts
-    var search_opt = 'type'
+    var search_opt = 'type';
     var options_list = [];
     var all_options = true;
 
@@ -21,11 +21,11 @@ d3.csv(URL, function (error, data) {
         debugger;
         //1. Set the list title and sort the options_list
         document.getElementById('list_title').innerHTML = search_opt.toUpperCase() + " <i>(Cliquez pour filtrer)</i>";
-        options_list.sort()
+        options_list.sort();
 
         //2. get distinct values of search_opt from data
         //dynamically create radio button with none selected
-        radio_string = ""
+        radio_string = "";
         for (i = 0; i < options_list.length; i++) {
             radio_string += "<br><input type='checkbox' id='" + options_list[i];
             radio_string += "' name='options' value='" + options_list[i];
@@ -38,7 +38,7 @@ d3.csv(URL, function (error, data) {
         d3.selectAll('input[name="options"]')
             .on('change', function () {
                 //return a list of 'selected' checkboxes or none if there are none
-                all_options = options_selected()
+                all_options = options_selected();
                 //redraw charts according to selections
                 new_draw_map(data, options_list, search_opt, all_options)
 
@@ -50,11 +50,11 @@ d3.csv(URL, function (error, data) {
         //creates a set of distinct 'option' values dependent on search_opt
         //used to populate list_radio
         var options_set = d3.set();
-        var my_val = ""
+        var my_val = "";
 
         data.forEach(function (d) {
             //if a long string, only shows the first 20 characters
-            my_val = check_length(d[search_opt], 20)
+            my_val = check_length(d[search_opt], 20);
             options_set.add(my_val);
         });
         options_list = options_set.values()
@@ -66,8 +66,6 @@ d3.csv(URL, function (error, data) {
         //indicate string has been cropped
         if (my_val.length > len_no) {
             my_val = my_val.slice(0, len_no) + ".."
-        } else {
-            my_val = my_val
         }
         return my_val;
     }
@@ -77,7 +75,7 @@ d3.csv(URL, function (error, data) {
         //looks at dynamically drawn options and adds any 'checked' values to the list
         var checked = document.querySelectorAll('input[name="options"]:checked');
         checked = Array.prototype.slice.call(checked);
-        my_list = []
+        my_list = [];
 
         if (checked.length === 0) {
             // there are no checked checkboxes
@@ -93,7 +91,7 @@ d3.csv(URL, function (error, data) {
 
     function draw_charts() {
         //draws the charts (functions in effective_plots.js)
-        draw_list(search_opt, options_list)
+        draw_list(search_opt, options_list);
         new_draw_map(data, options_list, search_opt)
     }
 
@@ -102,14 +100,14 @@ d3.csv(URL, function (error, data) {
     d3.selectAll('input[name="search_option"]')
         .on('change', function () {
             //reset the global var search_opt
-            search_opt = document.querySelector('input[name="search_option"]:checked').value
+            search_opt = document.querySelector('input[name="search_option"]:checked').value;
             //reset data and draw charts
-            reset_data()
+            reset_data();
             draw_charts()
-        })
+        });
 
-    reset_data()
-    draw_charts()
+    reset_data();
+    draw_charts();
 
 
     function apply_filters(data, search_opt, filter_by) {
@@ -122,9 +120,8 @@ d3.csv(URL, function (error, data) {
 
         if (filter_by.length > 0) {
             my_data = data.filter(function (d) {
-                d[search_opt] = check_length(d[search_opt], 20)
+                d[search_opt] = check_length(d[search_opt], 20);
                 return filter_by.indexOf(d[search_opt]) > -1;
-                ;
             });
         } else {
             my_data = data;
@@ -144,9 +141,9 @@ d3.csv(URL, function (error, data) {
 
         var bound = new google.maps.LatLngBounds();
         for (m in my_data) {
-            long = +my_data[m].longitude
-            lat = +my_data[m].latitude
-            if (isNaN(my_data[m].longitude) == true) {
+            long = +my_data[m].longitude;
+            lat = +my_data[m].latitude;
+            if (isNaN(my_data[m].longitude)) {
                 my_data.splice(m, 1)
             } else {
                 bound.extend(new google.maps.LatLng(lat, long));
@@ -161,7 +158,9 @@ d3.csv(URL, function (error, data) {
         var map = new google.maps.Map(d3.select("#map").node(), {
             zoom: 1,
             center: new google.maps.LatLng(-25.363, 131.044),
-            mapTypeId: google.maps.MapTypeId.TERRAIN
+            mapTypeId: google.maps.MapTypeId.TERRAIN,
+            styles: [
+                {featureType: 'poi', stylers: [{ visibility: "off" }]}]
         });
 
 
@@ -192,7 +191,6 @@ d3.csv(URL, function (error, data) {
                     .enter().append("svg")
                     .each(transform)
                     .attr("class", "marker");
-                ;
 
 
                 // Add a circle.
@@ -204,7 +202,7 @@ d3.csv(URL, function (error, data) {
                         //sets tooltip.  t_text = content in html
                         debugger;
                         t_text = "Nom: " + d.nom + "<br>Adresse: " + d.adresse + "<br>Type: " + d.type + "<br>Terrasse: " + d.terrasse + "<br>Note Yelp: " + d.noteyelp + "<br>Prix Yelp: " + d.prixyelp
-                        tooltip.html(t_text)
+                        tooltip.html(t_text);
                         return tooltip.style("visibility", "visible");
                     })
                     .on("mousemove", function () {
@@ -228,7 +226,7 @@ d3.csv(URL, function (error, data) {
         overlay.setMap(map);
 
 
-    };
+    }
 
 
 });
