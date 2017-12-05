@@ -197,7 +197,7 @@ d3.csv(URL, function (error, data) {
 
                 // Add a circle.
                 marker.append("circle")
-                    .attr("r", 12)
+                    .attr("r", 4)
                     .attr("cx", padding + 5)
                     .attr("cy", padding + 5)
                     .on("mouseover", function (d) {
