@@ -202,3 +202,7 @@ input[name="options"]:checked + label {
   padding: 10px;
   vertical-align: top;
 }
+
+*, ::after, ::before {
+    box-sizing: content-box;
+}
