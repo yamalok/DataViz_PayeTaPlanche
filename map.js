@@ -199,16 +199,23 @@ d3.csv(URL, function (error, data) {
                     .attr("cy", padding + 5)
                     .on("mouseover", function (d) {
                         //sets tooltip.  t_text = content in html
-                        console.log("Over");
+                        tooltip.style("visibility", "hidden");
                         t_text = "Nom: " + d.nom + "<br>Adresse: " + d.adresse + "<br>Type: " + d.type + "<br>Terrasse: " + d.terrasse + "<br>Note Yelp: " + d.noteyelp + "<br>Prix Yelp: " + d.prixyelp
                         tooltip.html(t_text);
-                        return tooltip.style("visibility", "visible");
+                        d3.select(this).style("cursor", "pointer");
+                        tooltip.style("visibility", "visible");
+                        tooltip.style("top", (event.pageY - 10) + "px").style("left", (event.pageX + 10) + "px");
                     })
                     .on("mousemove", function () {
-                        return tooltip.style("top", (event.pageY - 10) + "px").style("left", (event.pageX + 10) + "px");
+
                     })
                     .on("mouseout", function () {
-                        return tooltip.style("visibility", "hidden");
+                        d3.select(this).style("cursor", "default");
+
+
+                    })
+                    .on("click", function(){
+
                     });
 
                 function transform(d) {
