@@ -57,6 +57,15 @@ border: none;
 
 
 /* Title Bar - Row 1, image and text*/
+#title-img {
+  background-color: #323333;
+  text-align: center;
+}
+.rounded-img {
+  border-radius: 50%;
+  width: 25%;
+  background-color: #323333;
+}
 #title-dataviz {
   background-color: #323333;
   color: white;
