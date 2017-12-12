@@ -57,11 +57,20 @@ border: none;
 
 
 /* Title Bar - Row 1, image and text*/
+#title-dataviz {
+  background-color: #323333;
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+  padding: 10px;
+  text-transform : uppercase;
+  text-align: center;
+}
+
 #title {
   background-color: #323333;
   color: white;
   font-size: 25px;
-  padding: 14px;
   text-align: center;
 }
 
