@@ -19,10 +19,8 @@
             Bar </label>&nbsp;&nbsp;
             <input type="radio" id='arrond' name="search_option" value="arrond"><label for="arrond"> Code
             Postal </label>&nbsp;&nbsp;
-            <input type="radio" id='prixyelp' name="search_option" value="prixyelp"><label for="prixyelp"> Prix
-            Yelp </label>&nbsp;&nbsp;
-            <input type="radio" id='noteyelp' name="search_option" value="noteyelp"><label for="noteyelp"> Note
-            Yelp </label>&nbsp;&nbsp;
+            <input type="radio" id='prixyelp' name="search_option" value="prixyelp"><label for="prixyelp"> Prix </label>&nbsp;&nbsp;
+            <input type="radio" id='noteyelp' name="search_option" value="noteyelp"><label for="noteyelp"> Note </label>&nbsp;&nbsp;
             <input type="radio" id='valide' name="search_option" value="valide"><label for="valide"> Test Paye Ta
             Planche </label>&nbsp;&nbsp;
             <a class="fa fa-info-circle" href="" data-toggle="modal" data-target="#commentaire"
@@ -66,21 +64,23 @@
 <!-- Modal -->
 <div class="modal fade" id="commentaire" tabindex="-1" role="dialog" aria-labelledby="commentaireLabel"
      aria-hidden="true">
-    <div class="modal-dialog" role="document">
+    <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="commentaireLabel">Informations</h5>
+                <h5 class="modal-title" id="commentaireLabel">Comment utiliser cette carte interactive ?</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <div class="modal-body text-justify">
-                Cette carte interactive vous permet de trouver facilement et rapidement les meilleurs bars et bistrots
-                de Lyon. Elle vous permet de les trier par Type, Code Postal, Note, Prix, mais aussi d’avoir les avis de
-                Paye Ta Planche, qui seront de plus en plus nombreux avec le temps.
-                Pour utiliser cette carte interactive, choisissez un critère de sélection dans la barre supérieure. Vous
-                pourrez ensuite filtrer les bars grâce à la colonne de gauche.
-                Chaque bar dispose d’informations détaillées. Passez votre souris sur le bar pour les afficher.
+            <div class="modal-body" align="justify">
+                <p> Cette carte interactive vous permet de trouver facilement et rapidement les meilleurs bars et bistrots
+                    de Lyon.</p>
+                <p> Elle vous permet de les trier par Type, Code Postal, Note, Prix, mais aussi d’avoir les avis de
+                    Paye Ta Planche, qui seront de plus en plus nombreux avec le temps.</p>
+                <img src="https://i.imgur.com/A2109RN.png" class="rounded img-fluid" alt="Barre de sélection" >
+                <p>Pour utiliser cette carte interactive, choisissez un critère de sélection dans la barre supérieure. Vous
+                pourrez ensuite filtrer les bars grâce à la colonne de gauche. Chaque bar dispose d’informations détaillées. Passez votre souris sur le bar pour les afficher. </p>
+                <img src="https://i.imgur.com/hcIsiXw.png" class="rounded mx-auto d-block" alt="Tooltip">
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
