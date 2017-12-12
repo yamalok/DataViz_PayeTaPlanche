@@ -1,132 +1,103 @@
 <html>
-<head>
-    <meta charset="UTF-8">
-    <!--Index file with base table format + links to css and js files-->
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-</head>
+  <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" >
 
-<body>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtijSawTOdoLHBiMO-gGfdGCx2QRUwT3s"></script>
-    <table>
-      <!--Row 1 - title image and colour key-->
-      <!--Row 2 - search option radio buttons (buttons hidden, labels instead)-->
-      <tr>
-        <td colspan='2' id='title'>
-            <input type="radio" id='type' name="search_option" value="type" checked="checked"><label for="type"> Type de
-            Bar </label>&nbsp;&nbsp;
-            <input type="radio" id='arrond' name="search_option" value="arrond"><label for="arrond"> Code
-            Postal </label>&nbsp;&nbsp;
-            <a class="fa fa-info-circle" href="" data-toggle="modal" data-target="#commentaire"
-                    aria-hidden="true" style="color: white"></a>
-        </td>
-      </tr>
-        <!--Row 3 - a break so there is a space in between the radio and the charts-->
-      <tr>
-          <td colspan='3'></td>
-      </tr>
-      <!--Row 4 - charts - 4 columns, charts in individual  tables -->
-      <tr>
-          <!--list_title - dynamically created checkbox - see effective.js -->
-          <td class='chart_td'>
-              <table class='chart_table'>
-                  <class ='type_de_bar'>
-                    <tr>
-                        <td id='list_title'>LIEUX</td>
-                    </tr>
-                    <tr>
-                        <td id='list_radio'></td>
-                    <tr>
-                  </class>
 
-                  <class ='arrondissement'>
-                    <tr>
-                        <td id='list_title'>LIEUX</td>
-                    </tr>
-                    <tr>
-                        <FORM>
-                          <SELECT name="select_arrondissement">
-                            <OPTION>lundi
-                            <OPTION>mardi
-                          </SELECT>
-                        </FORM>
+  </head>
 
-                    <tr>
-                  </class>
-                  <class ='prix_yelp'>
-                    <tr>
-                        <td id='list_title'>LIEUX</td>
-                    </tr>
-                    <tr>
-                        <td id='list_radio'></td>
-                    <tr>
-                  </class>
-                  <class ='note_yelp'>
-                    <tr>
-                        <td id='list_title'>LIEUX</td>
-                    </tr>
-                    <tr>
-                        <td id='list_radio'></td>
-                    <tr>
-                  </class>
-                  <class ='test_ptp'>
-                    <tr>
-                        <td id='list_title'>LIEUX</td>
-                    </tr>
-                    <tr>
-                        <td id='list_radio'></td>
-                    <tr>
-                  </class>
-              </table>
-          </td>
-          <!--map td and title -->
-          <td class='chart_td'>
-              <table class='chart_table'>
-                  <tr>
-                      <td id='map_title'>LIEUX</td>
-                  </tr>
-                  <tr>
-                      <td>
-                          <div id="map"></div>
-                      </td>
-                  <tr>
-              </table>
-          </td>
+  <body>
 
-      </tr>
-</table>
-<!-- Modal -->
-<div class="modal fade" id="commentaire" tabindex="-1" role="dialog" aria-labelledby="commentaireLabel"
-     aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="commentaireLabel">Informations</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
+    <nav class="col-sm-4 col-md-3 hidden-xs-down bg-faded sidebar">
+          <ul class="nav nav-pills flex-column">
+
+            <div class="container type">
+              <a href="#type" class="btn btn-info" data-toggle="collapse">Type</a>
+                <div id="type" class="collapse">
+                  <div id="scroll_type" class="form-control" style="overflow-y:scroll; height:150px;">
+                    <option>Bars</option>
+                    <option>Bars à vin </option>
+                    <option>Bars festif</option>
+                    <option>Café</option>
+                    <option>Café Bars</option>
+                  </div>
+              </div>
             </div>
-            <div class="modal-body text-justify">
-                Cette carte interactive vous permet de trouver facilement et rapidement les meilleurs bars et bistrots
-                de Lyon. Elle vous permet de les trier par Type, Code Postal, Note, Prix, mais aussi d’avoir les avis de
-                Paye Ta Planche, qui seront de plus en plus nombreux avec le temps.
-                Pour utiliser cette carte interactive, choisissez un critère de sélection dans la barre supérieure. Vous
-                pourrez ensuite filtrer les bars grâce à la colonne de gauche.
-                Chaque bar dispose d’informations détaillées. Passez votre souris sur le bar pour les afficher.
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
-            </div>
-        </div>
-    </div>
-</div>
 
-    <script src="https://use.fontawesome.com/1f32ea24a2.js"></script>
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
-    <script src="map.js"></script>
+            <div class="container arr">
+              <a href="#postal" class="btn btn-info" data-toggle="collapse">Arrondissement</a>
+              <div id="postal" class="collapse">
+                <div id="scroll_type" class="form-control" style="overflow-y:scroll; height:150px;">
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="1">1er Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="2">2e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="3">3e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="4">4e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="5">5e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="6">6e Arrondissemnt</label>
+                  </div>
+                </div>
+              </div>
+            </div>
 
+
+            <div class="container notes">
+              <a href="#note" class="btn btn-info" data-toggle="collapse">Note</a>
+              <div id="note" class="collapse">
+
+                <a href="/gp/product-reviews/B002TMCCA8/ref=s9_acsd_top_hd_bw_b3tx9Xz_c_x_1_w?pf_rd_m=A1X6FK5RDHNB96&amp;pf_rd_s=merchandised-search-8&amp;pf_rd_r=F2WX8K47G5YAD7KVD108&amp;pf_rd_t=101&amp;pf_rd_p=fc0ccda6-8ed6-5f79-8200-168ce7e0489f&amp;pf_rd_i=3575195031" class="a-size-small">
+                				<i class="a-icon a-icon-star-small a-star-small-4-5 a-spacing-none"></i>
+                				<span class="acs_product-rating__review-count">373</span>
+                			</a>
+              </div>
+            </div>
+
+
+            <div class="container">
+              <a href="#prix" class="btn btn-info" data-toggle="collapse">Prix</a>
+              <div id="prix" class="collapse">
+                <div class="container">
+                    <ul class="pagination pagination-sm">
+                      <li class="page-item"><a class="page-link" href="#"> €  </a></li>
+                      <li class="page-item"><a class="page-link" href="#"> €€ </a></li>
+                      <li class="page-item"><a class="page-link" href="#"> €€€</a></li>
+                      <li class="page-item"><a class="page-link" href="#">€€€€</a></li>
+                    </ul>
+                </div>
+
+                </ul>
+              </div>
+            </div>
+
+            <div class="container">
+              <a href="#valide" class="btn btn-info" data-toggle="collapse">Validé</a>
+              <div id="valide" class="collapse">
+                <div class="radio">
+                  <label><input type="radio" name="optradio">Validé</label>
+                </div>
+                <div class="radio">
+                  <label><input type="radio" name="optradio">Non validé</label>
+                </div>
+                <div class="radio">
+                  <label><input type="radio" name="optradio">Non testé</label>
+                </div>
+              </div>
+            </div>
+
+        </nav>
   </body>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 </html>
