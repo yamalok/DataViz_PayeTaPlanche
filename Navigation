@@ -1,0 +1,110 @@
+<html>
+  <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" >
+      <link rel=“stylesheet” href= "fontawesome.min.css" >
+
+
+  </head>
+
+  <body>
+
+    <nav class="col-sm-4 col-md-3 hidden-xs-down bg-faded sidebar">
+          <ul class="nav nav-pills flex-column">
+
+            <div class="container type">
+              <a href="#type" class="btn btn-info" data-toggle="collapse">Type</a>
+                <div id="type" class="collapse">
+                  <div id="scroll_type" class="form-control" style="overflow-y:scroll; height:150px;">
+                    <option>Bars</option>
+                    <option>Bars à vin </option>
+                    <option>Bars festif</option>
+                    <option>Café</option>
+                    <option>Café Bars</option>
+                  </div>
+              </div>
+            </div>
+
+            <div class="container arr">
+              <a href="#postal" class="btn btn-info" data-toggle="collapse">Arrondissement</a>
+              <div id="postal" class="collapse">
+                <div id="scroll_type" class="form-control" style="overflow-y:scroll; height:150px;">
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="1">1er Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="2">2e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="3">3e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="4">4e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="5">5e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="6">6e Arrondissemnt</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="container notes">
+              <a href="#note" class="btn btn-info" data-toggle="collapse">Note</a>
+              <div id="note" class="collapse">
+                <i class="fa fa-star-half-o" aria-hidden="true"></i>
+
+              </div>
+
+              <div class="list-group">
+                <a class="list-group-item" href="#"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Home</a>
+                <a class="list-group-item" href="#"><i class="fa fa-book fa-fw" aria-hidden="true"></i>&nbsp; Library</a>
+                <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i>&nbsp; Applications</a>
+                <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp; Settings</a>
+              </div>
+              
+            </div>
+
+
+            <div class="container prix">
+              <a href="#prix" class="btn btn-info" data-toggle="collapse">Prix</a>
+              <div id="prix" class="collapse">
+                <div class="container">
+                    <ul class="pagination pagination-sm">
+                      <li class="page-item"><a class="page-link" href="#"> €  </a></li>
+                      <li class="page-item"><a class="page-link" href="#"> €€ </a></li>
+                      <li class="page-item"><a class="page-link" href="#"> €€€</a></li>
+                      <li class="page-item"><a class="page-link" href="#">€€€€</a></li>
+                    </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="container test">
+              <a href="#valide" class="btn btn-info" data-toggle="collapse">Validé</a>
+              <div id="valide" class="collapse">
+                <div class="radio">
+                  <label><input type="radio" name="optradio">Validé</label>
+                </div>
+                <div class="radio">
+                  <label><input type="radio" name="optradio">Non validé</label>
+                </div>
+                <div class="radio">
+                  <label><input type="radio" name="optradio">Non testé</label>
+                </div>
+              </div>
+            </div>
+          </ul>
+        </nav>
+
+        <i class="fa fa-star-half-o" aria-hidden="true"></i>
+
+  </body>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+</html>
