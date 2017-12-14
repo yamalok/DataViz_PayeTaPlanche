@@ -74,6 +74,7 @@ border: none;
   padding: 10px;
   text-transform : uppercase;
   text-align: center;
+  font-family: "Lato Black";
 }
 
 #title {
@@ -81,6 +82,7 @@ border: none;
   color: white;
   font-size: 25px;
   text-align: center;
+  font-family: "Lato";
 }
 
 #title_img {
