@@ -1,0 +1,154 @@
+<html>
+  <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" >
+      <link rel=“stylesheet” href= "fontawesome.min.css" >
+      <style>
+        body {
+          font-family: "lato" ;
+        }
+
+        .btn-info {
+          color: #323333;
+          background-color: #ffffff;
+          border-color: #ffffff;
+        }
+
+        a:hover {
+          color: white;
+          background-color: #555d68;
+          text-decoration: underline;
+        }
+
+        a {
+          color: #555d68 ;
+        }
+
+        h3 {
+            font-family: :"bitter";
+        }
+
+        .btn {
+          font-weight: 800;
+        }
+
+        .rating {
+          color: #d0af34;
+          font-weight: 400;
+        }
+
+        a.rating:hover {
+          color: #d0af34;
+          background-color: #ffffff;
+
+        }
+      </style>
+
+
+
+  </head>
+
+  <body>
+
+    <nav class="col-sm-4 col-md-3 hidden-xs-down bg-faded sidebar">
+          <ul class="nav nav-pills flex-column">
+
+            <div class="container type">
+              <h3><a href="#type" class="btn dropdown-toggle" data-toggle="collapse">Type</a></h3>
+                <div id="type" class="collapse">
+                  <div id="scroll_type" class="form-control" style="overflow-y:scroll; height:150px;">
+                    <option>Bars</option>
+                    <option>Bars à vin </option>
+                    <option>Bars festif</option>
+                    <option>Café</option>
+                    <option>Café Bars</option>
+                  </div>
+                </div>
+            </div>
+
+            <div class="container arr">
+              <h4><a href="#postal" class="btn dropdown-toggle" data-toggle="collapse">Arrondissement</a></h4>
+              <div id="postal" class="collapse">
+                <div id="scroll_type" class="form-control" style="overflow-y:scroll; height:150px;">
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="1">1er Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="2">2e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="3">3e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="4">4e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="5">5e Arrondissemnt</label>
+                  </div>
+                  <div class="checkbox">
+                    <label><input type="checkbox" value="6">6e Arrondissemnt</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="container notes">
+              <h4><a href="#note" class="btn dropdown-toggle" data-toggle="collapse">Note</a></h4>
+              <div id="note" class="collapse">
+                <div class="form-control">
+                  <div class="rating">
+                    <a class="rating" href="#"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></a>
+                  </div>
+                  <div class="rating">
+                    <a class="rating" href="#"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></a>
+                  </div>
+                  <div class="rating">
+                    <a class="rating" href="#"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></a>
+                  </div>
+                  <div class="rating">
+                    <a class="rating" href="#"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></a>
+                  </div>
+                  <div class="rating">
+                    <a class="rating" href="#"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="container prix">
+              <h4><a href="#prix" class="btn dropdown-toggle" data-toggle="collapse">Prix</a></h4>
+              <div id="prix" class="collapse">
+                <div class="container">
+                    <ul class="pagination pagination-sm">
+                      <li class="page-item"><a class="btn rating" href="#"> €  </a></li>
+                      <li class="page-item"><a class="btn rating" href="#"> €€ </a></li>
+                      <li class="page-item"><a class="btn rating" href="#"> €€€</a></li>
+                      <li class="page-item"><a class="btn rating" href="#">€€€€</a></li>
+                    </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="container test">
+              <h4><a href="#valide" class="btn dropdown-toggle" data-toggle="collapse">Validé</a></h4>
+              <div id="valide" class="collapse">
+                <div class="radio">
+                  <label><input type="radio" name="optradio">Validé</label>
+                </div>
+                <div class="radio">
+                  <label><input type="radio" name="optradio">Non validé</label>
+                </div>
+                <div class="radio">
+                  <label><input type="radio" name="optradio">Non testé</label>
+                </div>
+              </div>
+            </div>
+          </ul>
+        </nav>
+
+  </body>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+</html>
